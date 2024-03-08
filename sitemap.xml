@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sekvens.buro.earth/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sekvens.buro.earth/</loc>
+</url>
+<url>
+<loc>https://sekvens.buro.earth/asmus-busck.html</loc>
+<lastmod>2024-03-08T19:16:50+01:00</lastmod>
+<image:image>
+<image:loc>https://sekvens.buro.earth/media/posts/3/asmus.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sekvens.buro.earth/otpei.html</loc>
+<lastmod>2024-03-08T19:17:05+01:00</lastmod>
+<image:image>
+<image:loc>https://sekvens.buro.earth/media/posts/4/kasper.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sekvens.buro.earth/salty-brothers.html</loc>
+<lastmod>2024-03-08T19:17:00+01:00</lastmod>
+<image:image>
+<image:loc>https://sekvens.buro.earth/media/posts/5/avatars-000098891345-lonygp-t500x500.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sekvens.buro.earth/sekvens.html</loc>
+<lastmod>2024-03-08T19:11:44+01:00</lastmod>
+<image:image>
+<image:loc>https://sekvens.buro.earth/media/posts/2/BJORNSSON-BUSCK-3.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
