@@ -3,7 +3,7 @@
     <title>sekvens</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-03-08T19:17:05+01:00</updated>
+    <updated>2024-03-08T19:26:44+01:00</updated>
     <author>
         <name>sekvens</name>
     </author>
@@ -45,11 +45,11 @@
         <id>https://sekvens.buro.earth/otpei.html</id>
         <media:content url="https://sekvens.buro.earth/media/posts/4/kasper.jpg" medium="image" />
 
-        <updated>2024-03-08T19:17:05+01:00</updated>
+        <updated>2024-03-08T19:26:44+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sekvens.buro.earth/media/posts/4/kasper.jpg" alt="" />
-                    Otpei (Kasper Bjørnsson) comes from the electronic music underground scene in Copenhagen. He was part of the now-defunct record label SygNok Records (Albertslund Terrorkorps, DJ Hvad, among others), a member of the music and event collective Stuelokalet, and has performed a variety of electronic live shows including collaborations with HLLW and WRCK. Otpei has produced music for various other artists in the underground scene and has also played concerts featuring experimental acoustic music. Links:
+                    Otpei (Kasper Bjørnsson) comes from the electronic music underground scene in Copenhagen. He was part of the now-defunct record label SygNok Records (Albertslund Terrorkorps, DJ Hvad, among others), a member of the music and event collective Stuelokalet, and has performed a variety of electronic live shows including collaborations with HLLW and WRCK. Otpei has produced music for various other artists in the underground scene and has also played concerts featuring experimental acoustic music. Links: soundcloud.com/otpei
                 ]]>
             </summary>
         <content type="html">
@@ -65,9 +65,7 @@
 <p><strong>Links:</strong></p>
 <ul>
 <li><a href="https://soundcloud.com/otpei">soundcloud.com/otpei</a></li>
-<li><a href="https://www.perplexity.ai/search/594501f7-23d7-44a8-ab9a-fda610c1c94b?s=m">www.perplexity.ai</a></li>
 </ul>
-<p> </p>
             ]]>
         </content>
     </entry>
