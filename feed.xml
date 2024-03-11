@@ -3,12 +3,43 @@
     <title>sekvens</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-03-08T19:26:44+01:00</updated>
+    <updated>2024-03-11T09:26:14+01:00</updated>
     <author>
         <name>sekvens</name>
     </author>
     <id>https://sekvens.buro.earth</id>
 
+    <entry>
+        <title>Supernihil</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/supernihil.html"/>
+        <id>https://sekvens.buro.earth/supernihil.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/7/IMG_20201106_135859_252.jpg" medium="image" />
+
+        <updated>2024-03-11T09:26:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/7/IMG_20201106_135859_252.jpg" alt="" />
+                    Supernihil has been making visuals for raves in Denmark, Sweden and Swiss since 2007. Supernihil is making visuals using code and found footage. The aesthetic is chaotic and organic. Supernihil has been resident on Norberg Festival as well as Loppen (Christiania) where he was partaking in organizing raves as well as visuals and general aesthetic. Supernihil has been involved in generative music videos and research into live video aesthetics. Links:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/7/IMG_20201106_135859_252.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Supernihil has been making visuals for raves in Denmark, Sweden and Swiss since 2007. Supernihil is making visuals using code and found footage. The aesthetic is chaotic and organic. </p>
+<p>Supernihil has been resident on Norberg Festival as well as Loppen (Christiania) where he was partaking in organizing raves as well as visuals and general aesthetic.</p>
+<p>Supernihil has been involved in generative music videos and research into live video aesthetics.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/fwYM107GNf0?si=7i92vp-wbkDKRZ38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Links:</p>
+<ul>
+<li><a href="supernihil.buro.earth">supernihil.buro.earth</a></li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Salty Brothers</title>
         <author>
@@ -18,17 +49,21 @@
         <id>https://sekvens.buro.earth/salty-brothers.html</id>
         <media:content url="https://sekvens.buro.earth/media/posts/5/avatars-000098891345-lonygp-t500x500.jpg" medium="image" />
 
-        <updated>2024-03-08T19:17:00+01:00</updated>
+        <updated>2024-03-11T09:12:10+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sekvens.buro.earth/media/posts/5/avatars-000098891345-lonygp-t500x500.jpg" alt="" />
-                    Salty Brothers, Farid (MaHada) and Ahmed (Aggi), started DJing together after Ahmed returned from London, where he co-founded the club FOLD and the record label DIY Records. Links: soundcloud.com/ma-hada
+                    Salty Brothers, Farid (DJ Salty) and Ahmed (Aggi), started DJing together after Ahmed returned from London, where he participated in founding the club FOLD and the record label DIY Records. Salty Brothers specialize in acid, techno, house, electrobreaks and arab-disco. Links: soundcloud.com/ma-hada
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://sekvens.buro.earth/media/posts/5/avatars-000098891345-lonygp-t500x500.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Salty Brothers, Farid (MaHada) and Ahmed (Aggi), started DJing together after Ahmed returned from London, where he co-founded the club FOLD and the record label DIY Records.</p>
+                <p>Salty Brothers, Farid (DJ Salty) and Ahmed (Aggi), started DJing together after Ahmed returned from London, where he participated in founding the club FOLD and the record label DIY Records.</p>
+<p>Salty Brothers specialize in acid, techno, house, electrobreaks and arab-disco.</p>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1517182309&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe></div>
+<div style="font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;"><a href="https://soundcloud.com/ma-hada" title="Ma Hada" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">Ma Hada</a> · <a href="https://soundcloud.com/ma-hada/mix-salty" title="Mix - Salty" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">Mix - Salty</a></div>
 <p><strong>Links:</strong></p>
 <ul>
 <li><a href="https://soundcloud.com/ma-hada">soundcloud.com/ma-hada</a></li>
