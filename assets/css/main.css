@@ -1641,7 +1641,7 @@ input[type=radio] {
   overflow: hidden;  
 }
 
- iframe {
+.video-container iframe {
   animation: fadeInAnimation ease 8s 5s forwards;
   animation-iteration-count: 1;
   position: absolute;
