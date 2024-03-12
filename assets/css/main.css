@@ -1642,7 +1642,7 @@ input[type=radio] {
 }
 
 .video-container iframe {
-  filter: contrast(500%) grayscale(1);
+  filter: brightness(50%) contrast(150%) saturate(200%);
   opacity: 0;
   animation: fadeInAnimation ease 2s 5s forwards;
   animation-iteration-count: 1;
