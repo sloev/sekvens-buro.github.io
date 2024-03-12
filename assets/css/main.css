@@ -914,7 +914,7 @@ input[type=radio] {
 }
 
 .container {
-  background: hsla(var(--background),0.8);
+  background: hsla(var(--background),0.9);
   border-right: 1px solid hsla(var(--color), var(--alpha, 0.1));
   display: flex;
   flex-direction: column;
@@ -1642,7 +1642,9 @@ input[type=radio] {
 }
 
 .video-container iframe {
-  animation: fadeInAnimation ease 8s 5s forwards;
+  filter: contrast(500%) grayscale(1);
+  opacity: 0;
+  animation: fadeInAnimation ease 2s 5s forwards;
   animation-iteration-count: 1;
   position: absolute;
   z-index: -1;
