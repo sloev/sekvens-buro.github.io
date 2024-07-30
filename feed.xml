@@ -3,7 +3,7 @@
     <title>sekvens</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-07-30T21:49:07+02:00</updated>
+    <updated>2024-07-30T21:56:36+02:00</updated>
     <author>
         <name>sekvens</name>
     </author>
@@ -155,7 +155,7 @@
         <id>https://sekvens.buro.earth/sekvens.html</id>
         <media:content url="https://sekvens.buro.earth/media/posts/2/BJORNSSON-BUSCK-3.png" medium="image" />
 
-        <updated>2024-07-30T21:49:07+02:00</updated>
+        <updated>2024-07-30T21:56:36+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sekvens.buro.earth/media/posts/2/BJORNSSON-BUSCK-3.png" alt="" />
@@ -181,12 +181,7 @@
 <div>
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">Purchase tickets via <strong>MobilePay</strong>:</div>
 <ol>
-<li>Choose ticket price:
-<ol>
-<li><strong>600kr</strong><em> for all dayse</em></li>
-<li><strong>350kr </strong><em>for one day</em></li>
-</ol>
-</li>
+<li>Choose ticket price:<br><strong>600kr</strong><em> for all dayse<br></em><strong>350kr </strong><em>for one day</em></li>
 <li>Supply your:<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>NAME + SURNAME + EMAIL</strong> <em>(example: john doe <a href="mailto:john@doe.com">john@doe.com</a>)</em><br></span>in the message field!</li>
 <li>Send to Mobile Pay box: <strong>2898YQ<br></strong></li>
 <li>The payment is your ticket together with the details of the message field.</li>
