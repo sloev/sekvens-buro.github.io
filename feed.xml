@@ -3,12 +3,37 @@
     <title>sekvens</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-07-30T22:20:49+02:00</updated>
+    <updated>2024-07-30T22:53:11+02:00</updated>
     <author>
         <name>sekvens</name>
     </author>
     <id>https://sekvens.buro.earth</id>
 
+    <entry>
+        <title>Bilibili</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/bilibili.html"/>
+        <id>https://sekvens.buro.earth/bilibili.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/8/IMG_1299.jpeg" medium="image" />
+
+        <updated>2024-07-30T22:53:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/8/IMG_1299.jpeg" alt="" />
+                    BiliBili forkæler dansegulvets folk med en atmosfære af sexy og groovy prog trance og gammel tech house, der presser de +140 bpm. Efter at have pushet musik hele sit liv, har BiliBili fundet et specielt sted i sig for den nostalgiske halvfemser Goa-lyd og nuller UK-tech scene. Dog skal man regne med at blive overrasket med musik fra adskillige andre scener også - især den franske freetek- og Detroit electro scene. Link: https://soundcloud.com/bilibilixx/mix
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/8/IMG_1299.jpeg" class="type:primaryImage" alt="" /></p>
+                <div dir="auto">BiliBili forkæler dansegulvets folk med en atmosfære af sexy og groovy prog trance og gammel tech house, der presser de +140 bpm. Efter at have pushet musik hele sit liv, har BiliBili fundet et specielt sted i sig for den nostalgiske halvfemser Goa-lyd og nuller UK-tech scene. Dog skal man regne med at blive overrasket med musik fra adskillige andre scener også - især den franske freetek- og Detroit electro scene. </div>
+<div dir="auto"> </div>
+<div dir="auto">Link: <a href="https://soundcloud.com/bilibilixx/mix" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://soundcloud.com/bilibilixx/mix&amp;source=gmail&amp;ust=1722457365079000&amp;usg=AOvVaw2jV12HuHwpeuIakfcx4y5A" rel="noopener">https://soundcloud.com/<wbr>bilibilixx/mix</a></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SEKVENS DJ FESTIVAL 30/8-1/9 2024</title>
         <author>
