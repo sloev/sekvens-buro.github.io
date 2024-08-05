@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sekvens.buro.earth/salty-brothers-2.html",
+            "url": "https://sekvens.buro.earth/salty-brothers-2.html",
+            "title": "Rosenkrantz",
+            "summary": "Funen-based dj with a passion for the melodic side of techno and house. soundcloud.com/rosenkrantz",
+            "content_html": "<p>Funen-based dj with a passion for the melodic side of techno and house.</p>\n<div dir=\"auto\"><a href=\"https://soundcloud.com/rosenkrantz\">\n<h1 class=\"glitch\" data-text=\"https://soundcloud.com/rosenkrantz\">soundcloud.com/rosenkrantz</h1>\n</a></div>",
+            "image": "https://sekvens.buro.earth/media/posts/14/avatars-000322902737-hv03ow-t500x500.jpg",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-05T17:53:50+02:00",
+            "date_modified": "2024-08-05T17:56:38+02:00"
+        },
+        {
             "id": "https://sekvens.buro.earth/merkula.html",
             "url": "https://sekvens.buro.earth/merkula.html",
             "title": "Merkula",

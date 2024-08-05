@@ -3,12 +3,38 @@
     <title>sekvens</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-08-05T17:48:52+02:00</updated>
+    <updated>2024-08-05T17:56:38+02:00</updated>
     <author>
         <name>sekvens</name>
     </author>
     <id>https://sekvens.buro.earth</id>
 
+    <entry>
+        <title>Rosenkrantz</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/salty-brothers-2.html"/>
+        <id>https://sekvens.buro.earth/salty-brothers-2.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/14/avatars-000322902737-hv03ow-t500x500.jpg" medium="image" />
+
+        <updated>2024-08-05T17:56:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/14/avatars-000322902737-hv03ow-t500x500.jpg" alt="" />
+                    Funen-based dj with a passion for the melodic side of techno and house. soundcloud.com/rosenkrantz
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/14/avatars-000322902737-hv03ow-t500x500.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Funen-based dj with a passion for the melodic side of techno and house.</p>
+<div dir="auto"><a href="https://soundcloud.com/rosenkrantz">
+<h1 class="glitch" data-text="https://soundcloud.com/rosenkrantz">soundcloud.com/rosenkrantz</h1>
+</a></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Merkula</title>
         <author>
