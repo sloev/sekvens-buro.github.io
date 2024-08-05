@@ -3,12 +3,39 @@
     <title>sekvens</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-08-05T16:08:36+02:00</updated>
+    <updated>2024-08-05T16:28:50+02:00</updated>
     <author>
         <name>sekvens</name>
     </author>
     <id>https://sekvens.buro.earth</id>
 
+    <entry>
+        <title>Merkula</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/merkula.html"/>
+        <id>https://sekvens.buro.earth/merkula.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/13/IMG_20230101_011705.jpg" medium="image" />
+
+        <updated>2024-08-05T16:28:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/13/IMG_20230101_011705.jpg" alt="" />
+                    Merkula has played in Odense, Aarhus and Copenhagen. Making music for over 10 years, and 7 years of techno, she is planning to play some new unreleased tracks no one has heard before. Being a part of Odeology, it was only a given the answer was yes to play elsewhere on Funen. Her music as a mix of gritty heavy bangers to hypnotic evolving tracks. soundcloud.com/merkula
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/13/IMG_20230101_011705.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Merkula has played in Odense, Aarhus and Copenhagen. Making music for over 10 years, and 7 years of techno, she is planning to play some new unreleased tracks no one has heard before. Being a part of Odeology, it was only a given the answer was yes to play elsewhere on Funen. Her music as a mix of gritty heavy bangers to hypnotic evolving tracks.</p>
+<p> </p>
+<div dir="auto"><a href="https://soundcloud.com/merkula">
+<h1 class="glitch" data-text="https://soundcloud.com/merkula">soundcloud.com/merkula</h1>
+</a></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tec2nisk</title>
         <author>
@@ -46,7 +73,7 @@
         <id>https://sekvens.buro.earth/matriark.html</id>
         <media:content url="https://sekvens.buro.earth/media/posts/11/Matriark_Morten_Bentzon_Main.jpg" medium="image" />
 
-        <updated>2024-07-31T11:38:26+02:00</updated>
+        <updated>2024-08-05T16:25:13+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sekvens.buro.earth/media/posts/11/Matriark_Morten_Bentzon_Main.jpg" alt="" />
@@ -148,18 +175,18 @@
         </author>
         <link href="https://sekvens.buro.earth/salty-brothers.html"/>
         <id>https://sekvens.buro.earth/salty-brothers.html</id>
-        <media:content url="https://sekvens.buro.earth/media/posts/5/avatars-000098891345-lonygp-t500x500.jpg" medium="image" />
+        <media:content url="https://sekvens.buro.earth/media/posts/5/IMG_3508.jpg" medium="image" />
 
-        <updated>2024-07-31T11:44:51+02:00</updated>
+        <updated>2024-08-05T16:19:14+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sekvens.buro.earth/media/posts/5/avatars-000098891345-lonygp-t500x500.jpg" alt="" />
+                        <img src="https://sekvens.buro.earth/media/posts/5/IMG_3508.jpg" alt="" />
                     Salty Brothers, Farid (DJ Salty) and Ahmed (Aggi), started DJing together after Ahmed returned from London, where he participated in founding the club FOLD and the record label DIY Records. Salty Brothers specialize in acid, techno, house, electrobreaks and arab-disco. soundcloud.com/ma-hada
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://sekvens.buro.earth/media/posts/5/avatars-000098891345-lonygp-t500x500.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://sekvens.buro.earth/media/posts/5/IMG_3508.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Salty Brothers, Farid (DJ Salty) and Ahmed (Aggi), started DJing together after Ahmed returned from London, where he participated in founding the club FOLD and the record label DIY Records.</p>
 <p>Salty Brothers specialize in acid, techno, house, electrobreaks and arab-disco.</p>
 <div dir="auto"><a href="https://soundcloud.com/ma-hada">
