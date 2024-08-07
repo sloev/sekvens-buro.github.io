@@ -3,7 +3,7 @@
     <title>Sekvens DJ festival</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-08-07T20:19:10+02:00</updated>
+    <updated>2024-08-07T20:52:41+02:00</updated>
     <author>
         <name>sekvens</name>
     </author>
@@ -240,7 +240,7 @@
         </content>
     </entry>
     <entry>
-        <title>pace+lead</title>
+        <title>Pace+lead</title>
         <author>
             <name>sekvens</name>
         </author>
@@ -248,7 +248,7 @@
         <id>https://sekvens.buro.earth/pacelead.html</id>
         <media:content url="https://sekvens.buro.earth/media/posts/9/Kopi-af-pacelead-pic.png" medium="image" />
 
-        <updated>2024-07-31T11:43:08+02:00</updated>
+        <updated>2024-08-07T20:52:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sekvens.buro.earth/media/posts/9/Kopi-af-pacelead-pic.png" alt="" />
