@@ -54,6 +54,11 @@
     var nods = document.getElementsByClassName('NO-CACHE');
     for (var i = 0; i < nods.length; i++)
     {
-        nods[i].attributes['src'].value += "?a=" + Math.random();
-    }
+        var children = nods[i].children;
+for (var j = 0; j < children.length; j++) {
+  var tableChild = children[j];
+  // Do stuff
+
+        tableChild.attributes['src'].value += "&a=" + Math.random();
+    }    }
     }, 0 )</script></body></html>
