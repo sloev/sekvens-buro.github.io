@@ -87,9 +87,13 @@ https://cdn.jsdelivr.net/npm/pristinejs@1.1.0/dist/pristine.min.js
 
 <form id="ticketform" novalidate method="post">
     <div class="form-group inline-label">
-       <input id="singleday" type="radio"  name="ticket" value="350" required data-pristine-min-message="Select only one ticket type"/>
-       <label for="singleday">Single day - 350kr</label><br/>
-       <input id="alldays" type="radio" checked name="ticket" value="600" required data-pristine-min-message="Select only one ticket type"/>
+       <input id="friday" type="radio"  name="ticket" value="friday" required data-pristine-min-message="Select only one ticket type"/>
+       <label for="friday">Friday- 350kr</label><br/>
+       <input id="saturday" type="radio"  name="ticket" value="saturday" required data-pristine-min-message="Select only one ticket type"/>
+       <label for="saturday">Saturday - 350kr</label><br/>
+       <input id="sunday" type="radio"  name="ticket" value="sunday" required data-pristine-min-message="Select only one ticket type"/>
+       <label for="sunday">Sunday - 350kr</label><br/>
+       <input id="alldays" type="radio" checked name="ticket" value="alldays" required data-pristine-min-message="Select only one ticket type"/>
        <label for="alldays">All days - 600kr</label><br/>
    </div>
 
@@ -159,7 +163,8 @@ form.addEventListener('submit', function (e) {
    if (!valid){return}
    var formData = new FormData(form);
    formData = Object.fromEntries(formData)
-    window.open(`https://qr.mobilepay.dk/box/7d8b4e41-0cf5-4f9d-af60-658decbf9741/pay-in?amount=${formData.ticket}00&message=${formData.name};${formData.sirname};${formData.email}`)
+   var amount = {friday:350,saturday:250,sunday:350,alldays:600}[formdata.ticket]
+    window.open(`https://qr.mobilepay.dk/box/7d8b4e41-0cf5-4f9d-af60-658decbf9741/pay-in?amount=${amount}00&message=${formData.ticket};${formData.name};${formData.sirname};${formData.email}`)
 });
 
 
