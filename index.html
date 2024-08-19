@@ -79,8 +79,8 @@ https://cdn.jsdelivr.net/npm/pristinejs@1.1.0/dist/pristine.min.js
                         <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">Follow this page for continuous updates
                             on the <strong>DJ line-up</strong>, as well as <strong>INFO</strong> about when ticket sales
                             start.</div>
-                        <div id="tickets">
-                            <h1  class="glitch" data-text="
+                        <div >
+                            <h1  id="tickets" class="glitch" data-text="
                  Tickets:">Tickets:</h1>
                 <p>Pay using mobilepay with the form below using a smartphone <i>(with mobilepay installed)</i></p>
                  <div  class="form-container">
@@ -140,7 +140,15 @@ Du har ret til at begrænse vores behandling af dine personoplysninger, hvis du 
 Hvis du har spørgsmål eller ønsker at udøve dine rettigheder, kan du kontakte os på asmusbusck+sekvensburo@gmail.com</p></details>
 </div>
 <script>window.onload = function () {
+    setTimeout(()=>{
+        console.log(window.location.hash)
+    if(window.location.hash=="#tickets") {
 
+    const textElement = document.getElementById("tickets")
+
+textElement.scrollIntoView()
+    }
+},0)
 var form = document.getElementById("ticketform");
 
 var pristine = new Pristine(form);
