@@ -160,11 +160,12 @@ var pristine = new Pristine(form);
 form.addEventListener('submit', function (e) {
    e.preventDefault();
    var valid = pristine.validate();
-   if (!valid){return}
+   if (!valid){return false}
    var formData = new FormData(form);
    formData = Object.fromEntries(formData)
-   var amount = {friday:350,saturday:250,sunday:350,alldays:600}[formdata.ticket]
-    window.open(`https://qr.mobilepay.dk/box/7d8b4e41-0cf5-4f9d-af60-658decbf9741/pay-in?amount=${amount}00&message=${formData.ticket};${formData.name};${formData.sirname};${formData.email}`)
+   var amount = {friday:350,saturday:250,sunday:350,alldays:600}[formData.ticket]
+    var url = `https://qr.mobilepay.dk/box/7d8b4e41-0cf5-4f9d-af60-658decbf9741/pay-in?amount=${amount}00&message=${formData.ticket};${formData.name};${formData.sirname};${formData.email}`
+    window.open(url)
 });
 
 
