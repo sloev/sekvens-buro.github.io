@@ -156,6 +156,7 @@ var pristine = new Pristine(form);
 form.addEventListener('submit', function (e) {
    e.preventDefault();
    var valid = pristine.validate();
+   if (!valid){return}
    var formData = new FormData(form);
    formData = Object.fromEntries(formData)
     window.open(`https://qr.mobilepay.dk/box/7d8b4e41-0cf5-4f9d-af60-658decbf9741/pay-in?amount=${formData.ticket}00&message=${formData.name}%20${formData.sirname}%20${formData.email}`, '_blank')
