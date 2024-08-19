@@ -15,8 +15,10 @@
  also setting content to the appropriate
  text set in the data-text attribute. */
 .glitch {
-  /* Animation provies a slight random skew. Check bottom of doc
+  /* Animation provies a slight random skew. Check bottom of
+   doc
    for more information on how to random skew. */
+   font-size: 3rem;
   animation: glitch-skew 1s infinite linear alternate-reverse;
 }
 .glitch::before {
