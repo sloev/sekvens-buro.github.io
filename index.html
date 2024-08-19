@@ -23,6 +23,9 @@
     <link rel="preload" href="https://sekvens.buro.earth/assets/dynamic/fonts/jetbrainsmono/jetbrainsmono.woff2"
         as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="https://sekvens.buro.earth/assets/css/style.css?v=bf1172facffbf474865f8326216f4617">
+    <script src="
+https://cdn.jsdelivr.net/npm/pristinejs@1.1.0/dist/pristine.min.js
+"></script>
     <script
         type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Sekvens DJ festival","url":"https://sekvens.buro.earth/"}</script>
     <noscript>
@@ -76,25 +79,94 @@
                         <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">Follow this page for continuous updates
                             on the <strong>DJ line-up</strong>, as well as <strong>INFO</strong> about when ticket sales
                             start.</div>
-                        <div>
-                            <h1 class="glitch" data-text="
+                        <div id="tickets">
+                            <h1  class="glitch" data-text="
                  Tickets:">Tickets:</h1>
+                <p>Pay using mobilepay with the form below using a smartphone <i>(with mobilepay installed)</i></p>
+                 <div  class="form-container">
+
+<form id="ticketform" novalidate method="post">
+    <div class="form-group inline-label">
+       <input id="singleday" type="radio"  name="ticket" value="350" required data-pristine-min-message="Select only one ticket type"/>
+       <label for="singleday">Single day - 350kr</label><br/>
+       <input id="alldays" type="radio" checked name="ticket" value="600" required data-pristine-min-message="Select only one ticket type"/>
+       <label for="alldays">All days - 600kr</label><br/>
+   </div>
+
+   <div class="form-group inline-label">
+       <input id="name" name="name" type="text" maxlength="30" required class="form-control" placeholder="john" />
+       <label for="name">name (navn)</label>
+
+   </div>
+   <div class="form-group inline-label">
+       <input id="sirname" name="sirname" type="text" maxlength="30" required class="form-control" placeholder="doe"/>
+       <label for="sirname">sirname (efternavn)</label>
+   </div>
+
+   <div class="form-group inline-label">
+       <input id="email" name="email" type="email" required class="form-control" placeholder="john@doe.com"/>
+       <label for="email">email</label>
+   </div>
+
+
+   <div class="form-group">
+       <input type="submit" value="Buy ticket" class="btn"/>
+   </div>
+
+</form>
+<details>
+  <summary>Click here to read our terms (GDPR)</summary>
+  <p>1. Formålsbegrænsning:
+Vi behandler dine personoplysninger (din e-mailadresse) til at informere dig om sekvens festival, til at sende dig relevante oplysninger og til at kommunikere med dig om festivalen.
+</p><p>2. Lovlighed, rimelighed og gennemsigtighed:
+Vi behandler dine personoplysninger lovligt, rimeligt og gennemsigtigt. Vi informerer dig klart og tydeligt om, hvordan vi behandler dine personoplysninger, og vi sikrer, at dine oplysninger er korrekte og sikre.
+
+</p><p>3. Rigtighed:
+Vi sikrer, at dine personoplysninger er rigtige og opdaterede. Hvis du opdager en fejl eller ønsker at opdatere dine oplysninger, kan du kontakte os på Asmusbusck@gmail.com
+
+</p><p>4. Ret til at se oplysninger (indsigtsret):
+Du har ret til at se de oplysninger, vi behandler om dig. Du kan anmode om disse oplysninger ved at kontakte os på Asmusbusck@gmail.com.
+
+</p><p>5. Ret til at trække samtykke tilbage:
+Du kan til enhver tid trække dit samtykke til vores behandling af dine personoplysninger tilbage. Hvis du trækker dit samtykke tilbage, har det først virkning fra dette tidspunkt.
+
+</p><p>6. Ret til at få slettet oplysninger:
+Du har ret til at få slettet dine personoplysninger, hvis du ønsker det. Vi vil gøre vores bedste for at slette dine oplysninger, men der kan være begrænsninger baseret på lovgivning og arkivkrav.
+
+</p><p>7. Ret til at begrænse behandling:
+Du har ret til at begrænse vores behandling af dine personoplysninger, hvis du ønsker det. Hvis du begrænser behandlingen, må vi kun behandle dine oplysninger med dit samtykke eller til at beskytte en person eller vigtige samfundsinteresser.
+
+</p><p>8. Kontaktinformation:
+Hvis du har spørgsmål eller ønsker at udøve dine rettigheder, kan du kontakte os på asmusbusck+sekvensburo@gmail.com</p></details>
+</div>
+<script>window.onload = function () {
+
+var form = document.getElementById("ticketform");
+
+var pristine = new Pristine(form);
+
+form.addEventListener('submit', function (e) {
+   e.preventDefault();
+   var valid = pristine.validate();
+   var formData = new FormData(form);
+   formData = Object.fromEntries(formData)
+
+   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+  window.open(`mobilepay://send?phone=9445LB&amount=${formData.ticket}&comment=${formData.name}%20${formData.sirname}%20${formData.email}&lock=1`, '_blank')
+}else{
+    window.open(`https://mobilepay.dk/erhverv/betalingslink/betalingslink-svar?phone=9445LB&amount=${formData.ticket}&comment=${formData.name}%20${formData.sirname}%20${formData.email}`, '_blank')
+}
+
+
+});
+
+
+};</script>
+
                         </div>
                         <div>
-                            <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">Purchase tickets via
-                                <strong>MobilePay</strong>:</div>
-                            <ol>
-                                <li>Choose ticket price:<br><strong>600kr</strong><em> for all
-                                        days<br></em><strong>350kr </strong><em>for one day</em></li>
-                                <li>Supply your:<br><span
-                                        style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong>NAME
-                                            + SURNAME + EMAIL</strong> <em>(example: john doe <a
-                                                href="mailto:john@doe.com">john@doe.com</a>)</em><br></span>in the
-                                    message field!</li>
-                                <li>Send to Mobile Pay box: <strong>9445LB<br></strong></li>
-                                <li>The payment is your ticket together with the details of the message field.</li>
-                            </ol><br><span
-                                style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Tickets
+                          <br><span
+                                style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">The payment is your ticket together with the details of the message field. <br>Tickets
                                 include dinner and brunch. When you buy a ticket, you also become a member of the
                                 association </span><strong
                                 style="font-family: var(--editor-font-family); font-size: inherit;">SEKVENS.</strong>
@@ -427,9 +499,9 @@ Det er højt tempo når musikken først spiller, som garantere dig danseværdi f
                     <div class="post__entry">
                         <div id=":nz" class="ii gt">
                             <div id=":ny" class="a3s aiL">
-                                <div dir="auto">Sarahabibi giver dig bind for øjnene og snurrer dig rundt. Når du åbner
-                                    øjnene igen er du i de varme lande og alting danser omkring dig, i et kalejdoskop af
-                                    Arabfunk, Habibi funk, Middle eastern groove og Italo disco. </div>
+                                <div dir="auto">Sarahabibis sætlister sender dig på en rejse i de varme lande og skaber en magisk atmosfære med en spændende fusion af Italo disco, Habibifunk, Middle Eastern groove og Psychedelic funk. 
+
+Hun inviterer dig med i et forførende lydunivers, der forvandler dansegulvet til en kulturel smeltedigel. </div>
                                 <div class="adL"> </div>
                             </div>
                         </div>
