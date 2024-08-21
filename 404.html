@@ -42,7 +42,17 @@
         <header class="header">
             <div class="header__logo"><a class="logo" href="https://sekvens.buro.earth/">Sekvens DJ festival</a></div>
         </header>
-        <meta http-equiv="refresh" content="0; url=https://sekvens.buro.earth#tickets">
+        <script>
+            window.onload = function () {
+    setTimeout(()=>{
+        var anchor = "tickets"
+    if(!!window.location.pathname) {
+        anchor = window.location.pathname.slice(1)
+    }
+    window.location.replace(`https://sekvens.buro.earth/#${anchor}`)    
+},0)
+            window.on("load")
+        </script>
         <footer class="footer">
             <div class="footer__inner">
                 <div class="footer__copyright">
