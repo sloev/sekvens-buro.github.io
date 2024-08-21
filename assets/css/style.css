@@ -492,7 +492,7 @@ h6 {
 
 .h1,
 h1 {
-    font-size: clamp(4rem * ((100vw - 20rem) / 50), 1.4728968807rem)
+    font-size: 4rem
 }
 
 .h2,
