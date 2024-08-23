@@ -167,6 +167,9 @@ form.addEventListener('submit', function (e) {
    e.preventDefault();
    var valid = pristine.validate();
    if (!valid){return false}
+   fetch("https://sekvens.buro.earth/ticketpurchased", {
+      method: "GET" // default, so we can ignore
+  })
    var formData = new FormData(form);
    formData = Object.fromEntries(formData)
    var amount = {friday:350,saturday:350,sunday:350,alldays:600}[formData.ticket]
