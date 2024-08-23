@@ -1,0 +1,27 @@
+<h1>help us spread the word by:</h1>
+<ol>
+    <li>copy a text from below or create your own</li>
+    <li>click the share buttons below</li>
+    <li>receive eternal gratitude from sekvens team</li>
+</ol>
+
+
+<ul>
+    <li>Sekvens DJ Festival er aaaaalt for NAIJCE</li>
+</ul>
+
+<a id="fb" href="https://www.facebook.com/sharer/sharer.php?u=">share on facebook</a>
+<br>
+<a id="insta" href="https://www.facebook.com/sharer/sharer.php?u=">share on twitter</a>
+
+<script>
+    window.onload = function() {
+        var id = Math.floor(Math.random() * 4);
+        const fb = document.getElementById("fb")
+        const insta = document.getElementById("insta")
+
+        fb.setAttribute("href", `https://www.facebook.com/sharer/sharer.php?u=https://sekvens.buro.earth/share_${id}`)
+        insta.setAttribute("href", `http://twitter.com/share?url=https://sekvens.buro.earth/share_${id}`)
+
+    }
+</script>
