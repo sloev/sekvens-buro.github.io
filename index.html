@@ -172,7 +172,7 @@ form.addEventListener('submit', function (e) {
    var amount = {friday:350,saturday:350,sunday:350,alldays:600}[formData.ticket]
     var url = `https://qr.mobilepay.dk/box/7d8b4e41-0cf5-4f9d-af60-658decbf9741/pay-in?amount=${amount}00&message=${formData.ticket};${formData.name};${formData.sirname};${formData.email}`
     window.open(url, "_blank")
-    window.open("https://sekvens.buro.earth/ticketpurchased","_self")
+    window.location.href = "https://sekvens.buro.earth/ticketpurchased"
 });
 
 
