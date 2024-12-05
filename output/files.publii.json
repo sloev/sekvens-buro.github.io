@@ -137,7 +137,7 @@
     {
         "path": "/authors/sekvens/index.html",
         "type": "file",
-        "md5": "d2422dc9cedac85bd94059cedcbd66d3"
+        "md5": "e0c0266e0bed995f43c4fcbcb6d08a1c"
     },
     {
         "path": "contact-2.html",
@@ -147,12 +147,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0341f2e1058b42b75a79fcafc6cddee6"
+        "md5": "5307ca9e8d077a77f89e66dc039e2f6b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ab7e3181152960e7010636696624153a"
+        "md5": "63a935ec8a6378bc4368c1b27f0727d6"
     },
     {
         "path": "fyns-amt.html",
@@ -235,6 +235,41 @@
         "md5": "21c14a0987141ddf91e4d24f7d511cc9"
     },
     {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/salti-lg.jpg",
+        "type": "file",
+        "md5": "f499eb9760569d10cabb7e4eeae480e4"
+    },
+    {
+        "path": "/media/posts/9/responsive/salti-md.jpg",
+        "type": "file",
+        "md5": "f499eb9760569d10cabb7e4eeae480e4"
+    },
+    {
+        "path": "/media/posts/9/responsive/salti-sm.jpg",
+        "type": "file",
+        "md5": "f499eb9760569d10cabb7e4eeae480e4"
+    },
+    {
+        "path": "/media/posts/9/responsive/salti-xs.jpg",
+        "type": "file",
+        "md5": "0d91e93c288a260e1e38295ec76845f5"
+    },
+    {
+        "path": "/media/posts/9/salti.jpg",
+        "type": "file",
+        "md5": "987222366a7570a62dedecd4ec95fe7b"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "d4811f6b1166d461c4b2ba76cb8ad84f"
@@ -242,12 +277,12 @@
     {
         "path": "salti-brothers.html",
         "type": "file",
-        "md5": "824d3ffe0e3d32a367e94d300c4eea6b"
+        "md5": "185d196d4d53632f08c192e5d72b3129"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "039e0f056d380242dc3fea031470865c"
+        "md5": "42a53dc837f85a333ccdcaf6ecfc864a"
     },
     {
         "path": "sitemap.xsl",
@@ -272,7 +307,7 @@
     {
         "path": "/tags/artists/index.html",
         "type": "file",
-        "md5": "be6553cd84c4a333795ae05931dcdc4a"
+        "md5": "a37cf6f4e7b87b89f4c8130478f0c7fc"
     },
     {
         "path": "tags/contact",
@@ -292,7 +327,7 @@
     {
         "path": "/tags/events/index.html",
         "type": "file",
-        "md5": "34cbd89b9fbe99b4a967561b152def91"
+        "md5": "d401bb838025e2d2e81d19cddd1b1daf"
     },
     {
         "path": "/tags/index.html",
