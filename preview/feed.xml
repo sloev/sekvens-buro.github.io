@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>sekvens buro</title>
+    <link href="file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/feed.xml" rel="self" />
+    <link href="file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview" />
+    <updated>2024-12-05T18:59:35+01:00</updated>
+    <author>
+        <name>sekvens</name>
+    </author>
+    <id>file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview</id>
+
+    <entry>
+        <title>Solhverv</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/solhverv.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/solhverv.html</id>
+            <category term="events"/>
+
+        <updated>2024-12-05T18:59:35+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>contact</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/contact-2.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/contact-2.html</id>
+            <category term="contact"/>
+
+        <updated>2024-12-05T18:57:43+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Asmus Busck</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/asmus-busck.html"/>
+        <id>file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/asmus-busck.html</id>
+            <category term="artists"/>
+
+        <updated>2024-12-05T18:56:58+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,52 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sekvens buro",
+    "description": "",
+    "home_page_url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview",
+    "feed_url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sekvens"
+    },
+    "items": [
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/solhverv.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/solhverv.html",
+            "title": "Solhverv",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "events"
+            ],
+            "date_published": "2024-12-05T18:59:35+01:00",
+            "date_modified": "2024-12-05T18:59:35+01:00"
+        },
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/contact-2.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/contact-2.html",
+            "title": "contact",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "contact"
+            ],
+            "date_published": "2024-12-05T18:57:43+01:00",
+            "date_modified": "2024-12-05T18:58:05+01:00"
+        },
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/asmus-busck.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/asmus-busck.html",
+            "title": "Asmus Busck",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "artists"
+            ],
+            "date_published": "2024-12-05T18:56:58+01:00",
+            "date_modified": "2024-12-05T18:56:58+01:00"
+        }
+    ]
+}
