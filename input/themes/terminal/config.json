@@ -1479,7 +1479,7 @@
             "name": "copyrightText",
             "label": "Copyright text",
             "group": "Footer",
-            "value": "<p>© 2024 Powered by Publii CMS :: <a href=\"https://github.com/panr/hugo-theme-terminal\" target=\"_blank\" rel=\"noopener\">Theme</a> ported by the <a href=\"https://getpublii.com/customization-service/\" target=\"_blank\" rel=\"noopener\">Publii Team</a></p> ",
+            "value": "",
             "type": "wysiwyg"
         },
 
