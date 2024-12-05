@@ -1055,7 +1055,7 @@ input[type=radio] {
 @media all and (min-width: 42.75em) {
   .post__cover {
     padding: calc(var(--baseline) * 5);
-    border-width: 20px;
+    border-width: 2px;
   }
 }
 .post__image {
