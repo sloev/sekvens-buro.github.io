@@ -5,6 +5,11 @@
         "md5": "a6d89d1e98d1dc030159ea98edb26f78"
     },
     {
+        "path": "CNAME",
+        "type": "file",
+        "md5": "75f091339cd0285645766f49395d0d0b"
+    },
+    {
         "path": "asmus-busck.html",
         "type": "file",
         "md5": "13f6b2a39fd7a4001236f536693a1874"
@@ -222,7 +227,7 @@
     {
         "path": "/tags/events/index.html",
         "type": "file",
-        "md5": "56e4dda05894511a2719a25ec0f23d16"
+        "md5": "885820e9caadd46edacbdaeba106bbec"
     },
     {
         "path": "/tags/index.html",
