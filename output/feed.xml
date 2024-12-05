@@ -3,12 +3,60 @@
     <title>sekvens buro</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-12-05T22:07:43+01:00</updated>
+    <updated>2024-12-05T22:16:20+01:00</updated>
     <author>
         <name>sekvens</name>
     </author>
     <id>https://sekvens.buro.earth</id>
 
+    <entry>
+        <title>Rosenkrantz</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/rosenkrantz.html"/>
+        <id>https://sekvens.buro.earth/rosenkrantz.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/11/rosenkrantz.jpg" medium="image" />
+
+        <updated>2024-12-05T22:16:07+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/11/rosenkrantz.jpg" alt="" />
+                    Funen-based dj with a passion for the melodic side of techno and house.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/11/rosenkrantz.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Funen-based dj with a passion for the melodic side of techno and house.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Supernihil</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/supernihil.html"/>
+        <id>https://sekvens.buro.earth/supernihil.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/10/Screenshot-from-2024-12-05-22-12-40.png" medium="image" />
+            <category term="artists"/>
+
+        <updated>2024-12-05T22:13:02+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/10/Screenshot-from-2024-12-05-22-12-40.png" alt="" />
+                    supernihil er en lokal visuel artist. se mere: supernihil.github.io
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/10/Screenshot-from-2024-12-05-22-12-40.png" class="type:primaryImage" alt="" /></p>
+                <p>supernihil er en lokal visuel artist.</p>
+<p>se mere: <a href="supernihil.github.io">supernihil.github.io</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Salti brothers</title>
         <author>
@@ -89,10 +137,11 @@
 <li>Dj peik. 20.00-21.00</li>
 <li><a href="https://sekvens.buro.earth/salti-brothers.html">Salti brothers</a> 21.00-22.00</li>
 <li>Sarahabibbi 22.00-23.00</li>
-<li>Rosenkrantz 23.00-00.00</li>
+<li><a href="https://sekvens.buro.earth/rosenkrantz.html">Rosenkrantz</a> 23.00-00.00</li>
 <li>Dj Monokel 00.00-01.00</li>
 <li><a href="https://sekvens.buro.earth/fyns-amt.html">Fyns Amt</a> 01.00-02.00</li>
 </ul>
+<p>Visuals: <a href="https://sekvens.buro.earth/supernihil.html">Supernihil</a></p>
 <p>Billetpris: 80 / 60 / 00 kr.</p>
             ]]>
         </content>
