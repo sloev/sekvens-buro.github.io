@@ -1,0 +1,83 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sekvens buro",
+    "description": "",
+    "home_page_url": "https://sekvens.buro.earth",
+    "feed_url": "https://sekvens.buro.earth/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sekvens"
+    },
+    "items": [
+        {
+            "id": "https://sekvens.buro.earth/salti-brothers.html",
+            "url": "https://sekvens.buro.earth/salti-brothers.html",
+            "title": "Salti brothers",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "artists"
+            ],
+            "date_published": "2024-12-05T21:39:50+01:00",
+            "date_modified": "2024-12-05T21:39:50+01:00"
+        },
+        {
+            "id": "https://sekvens.buro.earth/fyns-amt.html",
+            "url": "https://sekvens.buro.earth/fyns-amt.html",
+            "title": "Fyns amt",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "artists"
+            ],
+            "date_published": "2024-12-05T21:39:21+01:00",
+            "date_modified": "2024-12-05T21:39:21+01:00"
+        },
+        {
+            "id": "https://sekvens.buro.earth/solhverv.html",
+            "url": "https://sekvens.buro.earth/solhverv.html",
+            "title": "Solhverv",
+            "summary": "MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.",
+            "content_html": "<p>MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.</p>\n<p>Dørene åbner kl. 20.00.</p>\n<p>PROGRAM:</p>\n<ul>\n<li>Dj peik. 20.00-21.00</li>\n<li><a href=\"https://sekvens.buro.earth/salti-brothers.html\">Salti brothers</a> 21.00-22.00</li>\n<li>Sarahabibbi 22.00-23.00</li>\n<li>Rosenkrantz 23.00-00.00</li>\n<li>Dj Monokel 00.00-01.00</li>\n<li><a href=\"https://sekvens.buro.earth/fyns-amt.html\">Fyns Amt</a> 01.00-02.00</li>\n</ul>\n<p>Billetpris: 80 / 60 / 00 kr.</p>",
+            "image": "https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "events"
+            ],
+            "date_published": "2024-12-05T18:59:35+01:00",
+            "date_modified": "2024-12-05T21:40:22+01:00"
+        },
+        {
+            "id": "https://sekvens.buro.earth/contact-2.html",
+            "url": "https://sekvens.buro.earth/contact-2.html",
+            "title": "contact",
+            "summary": "mail: asmusbusck@gmail.com",
+            "content_html": "<p>mail: <a href=\"mailto:asmusbusck+sekvens@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">asmusbusck@gmail.com</a></p>",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "contact"
+            ],
+            "date_published": "2024-12-05T18:57:43+01:00",
+            "date_modified": "2024-12-05T21:38:33+01:00"
+        },
+        {
+            "id": "https://sekvens.buro.earth/asmus-busck.html",
+            "url": "https://sekvens.buro.earth/asmus-busck.html",
+            "title": "Asmus Busck",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "artists"
+            ],
+            "date_published": "2024-12-05T18:56:58+01:00",
+            "date_modified": "2024-12-05T18:56:58+01:00"
+        }
+    ]
+}

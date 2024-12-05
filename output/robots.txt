@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://sekvens.buro.earth/sitemap.xml

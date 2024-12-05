@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "1b106fe4ffbbe38553a26fae9a569cd4"
+        "md5": "26fb7871b76714e32cc07952eb350f7d"
     },
     {
         "path": "CNAME",
@@ -12,7 +12,7 @@
     {
         "path": "asmus-busck.html",
         "type": "file",
-        "md5": "de80328450df1980c369fc9a37c40750"
+        "md5": "ab8559948c5d802c21cd26113516f078"
     },
     {
         "path": "assets",
@@ -137,27 +137,37 @@
     {
         "path": "/authors/sekvens/index.html",
         "type": "file",
-        "md5": "bb435ff3ed3c32de95f1d9411282d71f"
+        "md5": "1e0e67cf50eb8439367b6386cf0b7ab3"
     },
     {
         "path": "contact-2.html",
         "type": "file",
-        "md5": "05a9d8b5fd184b39f13f3295ca62daed"
+        "md5": "18a03c7e7101c8892f89c0b60bdcabb5"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "5939a62c3169e457351d963e46a4ed6d"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "c7db4468db8ba65bae8112e24c94c252"
     },
     {
         "path": "fyns-amt.html",
         "type": "file",
-        "md5": "d1c1fd6e215f0758e2302768407493ae"
+        "md5": "e67c16fa7e55ac9efcccb7d653b732d7"
     },
     {
         "path": "home.html",
         "type": "file",
-        "md5": "c0ab3cea58ccd43581cbe768211ed823"
+        "md5": "aee2f4591fdb29c08d301792f3250aad"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d715e153ce1ceb52317236fb0128755b"
+        "md5": "37c4b5f99cdde24cbfe52591b3133a92"
     },
     {
         "path": "media",
@@ -192,17 +202,27 @@
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+        "md5": "d4811f6b1166d461c4b2ba76cb8ad84f"
     },
     {
         "path": "salti-brothers.html",
         "type": "file",
-        "md5": "05b7fa86dc6de5d94a494362419fdbc2"
+        "md5": "824d3ffe0e3d32a367e94d300c4eea6b"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "9e92bcca3382a09e637cfb9093f684e4"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
     },
     {
         "path": "solhverv.html",
         "type": "file",
-        "md5": "b2cb7831d41f055a7f825c1e9a98b35d"
+        "md5": "41aecf807996058113bc8a045672c556"
     },
     {
         "path": "tags",
@@ -217,7 +237,7 @@
     {
         "path": "/tags/artists/index.html",
         "type": "file",
-        "md5": "78ab90a68fbda73b04f0c89ebb5b2392"
+        "md5": "bb71f1d07fbf7ebc9a8ba052b5b6d7c0"
     },
     {
         "path": "tags/contact",
@@ -227,7 +247,7 @@
     {
         "path": "/tags/contact/index.html",
         "type": "file",
-        "md5": "5ba26365407f4637c7762a1619084ce8"
+        "md5": "f73839d6a739050cad2a3c29a8e912b9"
     },
     {
         "path": "tags/events",
@@ -237,11 +257,11 @@
     {
         "path": "/tags/events/index.html",
         "type": "file",
-        "md5": "173addb01a67b6b7d0949bb0b899cb51"
+        "md5": "a7032ed4645d13fcbb36ee5e24e0fb20"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "73d3f3b6eb9770f24a28e74335760e29"
+        "md5": "374ebdc87da78b8c622979b7ccd42998"
     }
 ]

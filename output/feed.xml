@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>sekvens buro</title>
+    <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
+    <link href="https://sekvens.buro.earth" />
+    <updated>2024-12-05T21:40:22+01:00</updated>
+    <author>
+        <name>sekvens</name>
+    </author>
+    <id>https://sekvens.buro.earth</id>
+
+    <entry>
+        <title>Salti brothers</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/salti-brothers.html"/>
+        <id>https://sekvens.buro.earth/salti-brothers.html</id>
+            <category term="artists"/>
+
+        <updated>2024-12-05T21:39:50+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Fyns amt</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/fyns-amt.html"/>
+        <id>https://sekvens.buro.earth/fyns-amt.html</id>
+            <category term="artists"/>
+
+        <updated>2024-12-05T21:39:21+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Solhverv</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/solhverv.html"/>
+        <id>https://sekvens.buro.earth/solhverv.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" medium="image" />
+            <category term="events"/>
+
+        <updated>2024-12-05T18:59:35+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" alt="" />
+                    MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" class="type:primaryImage" alt="" /></p>
+                <p>MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.</p>
+<p>Dørene åbner kl. 20.00.</p>
+<p>PROGRAM:</p>
+<ul>
+<li>Dj peik. 20.00-21.00</li>
+<li><a href="https://sekvens.buro.earth/salti-brothers.html">Salti brothers</a> 21.00-22.00</li>
+<li>Sarahabibbi 22.00-23.00</li>
+<li>Rosenkrantz 23.00-00.00</li>
+<li>Dj Monokel 00.00-01.00</li>
+<li><a href="https://sekvens.buro.earth/fyns-amt.html">Fyns Amt</a> 01.00-02.00</li>
+</ul>
+<p>Billetpris: 80 / 60 / 00 kr.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>contact</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/contact-2.html"/>
+        <id>https://sekvens.buro.earth/contact-2.html</id>
+            <category term="contact"/>
+
+        <updated>2024-12-05T18:57:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                    mail: asmusbusck@gmail.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>mail: <a href="mailto:asmusbusck+sekvens@gmail.com" target="_blank" rel="noopener noreferrer">asmusbusck@gmail.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Asmus Busck</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/asmus-busck.html"/>
+        <id>https://sekvens.buro.earth/asmus-busck.html</id>
+            <category term="artists"/>
+
+        <updated>2024-12-05T18:56:58+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -7,7 +7,7 @@
         "color": 1,
         "icon": "web-pizza"
     },
-    "domain": "/",
+    "domain": "https://sekvens.buro.earth",
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
@@ -173,11 +173,11 @@
     },
     "deployment": {
         "protocol": "manual",
-        "relativeUrls": true,
+        "relativeUrls": false,
         "port": "",
         "server": "",
         "username": "",
-        "password": "publii uuid-1733421249505-899906369",
+        "password": "",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -187,8 +187,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "publii-s3-id uuid-1733421249505-899906369",
-            "key": "publii-s3-key uuid-1733421249505-899906369",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -199,7 +199,7 @@
             "url": "",
             "branch": "",
             "user": "",
-            "password": "publii-git-password uuid-1733421249505-899906369",
+            "password": "",
             "commitAuthor": "",
             "commitEmail": "",
             "commitMessage": "Publii: update content"
@@ -209,7 +209,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "publii-gh-token uuid-1733421249505-899906369",
+            "token": "",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -218,11 +218,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token uuid-1733421249505-899906369"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id uuid-1733421249505-899906369",
-            "token": "publii-netlify-token uuid-1733421249505-899906369"
+            "id": "",
+            "token": ""
         },
         "google": {
             "key": "",
@@ -235,5 +235,5 @@
         }
     },
     "theme": "terminal",
-    "syncDate": 1733431750329
+    "syncDate": 1733431912994
 }
