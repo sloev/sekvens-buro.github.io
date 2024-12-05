@@ -12,21 +12,7 @@
 
             <header>
                <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a></h2>
-               <div class="post__meta">
-                  {{#each tags}}
-                
-                  {{#checkIf name '==' "events" }}
-
-                  <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="post__date">
-                     {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                     {{date createdAt @config.custom.formatDate}}
-                     {{else}}
-                     {{date createdAt @config.custom.formatDateCustom}}
-                     {{/checkIf}}
-                  </time>
-                  {{/checkIf}}
-                  {{/each}}
-               </div>
+         
             </header>
 
             {{#if @config.custom.listingFeaturedImage}}
