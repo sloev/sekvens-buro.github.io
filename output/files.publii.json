@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "03859ba48e895953d94ed1e531818787"
+        "md5": "a6d89d1e98d1dc030159ea98edb26f78"
     },
     {
         "path": "asmus-busck.html",
         "type": "file",
-        "md5": "cd0b51d1fc1a695ac253533d66a4d0da"
+        "md5": "13f6b2a39fd7a4001236f536693a1874"
     },
     {
         "path": "assets",
@@ -132,17 +132,52 @@
     {
         "path": "/authors/sekvens/index.html",
         "type": "file",
-        "md5": "00ccc590211e41fa6503b2eb271dfe6f"
+        "md5": "d1967b984186f92d33ec00f67890657e"
     },
     {
         "path": "contact-2.html",
         "type": "file",
-        "md5": "217347faa1e229f81992a6ae6a04f8f5"
+        "md5": "2fe9048c14d68a2c601fea1d92fb0ceb"
+    },
+    {
+        "path": "home.html",
+        "type": "file",
+        "md5": "1c0a46522cb5884c96f932492363ebfd"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "99a4669a295398edeb459385ef739ad4"
+        "md5": "ddd89e1d3a3c2bcbd6a694ddf6fe75f8"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/moh.icon.gif",
+        "type": "file",
+        "md5": "3dd17296f4997961a8c7f88c252a1b26"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif",
+        "type": "file",
+        "md5": "888393b33a99151ac0a30ee91a09dd68"
     },
     {
         "path": "robots.txt",
@@ -152,7 +187,7 @@
     {
         "path": "solhverv.html",
         "type": "file",
-        "md5": "31a8923b629607b2d8843be4ab340fde"
+        "md5": "237f64ff29a938c39ede81c560cc6ee9"
     },
     {
         "path": "tags",
@@ -167,7 +202,7 @@
     {
         "path": "/tags/artists/index.html",
         "type": "file",
-        "md5": "614b3dc8603a799eb3dd51e949cb9596"
+        "md5": "0b1a347b7510d6e005f5d837d061d60b"
     },
     {
         "path": "tags/contact",
@@ -177,7 +212,7 @@
     {
         "path": "/tags/contact/index.html",
         "type": "file",
-        "md5": "9030c1c7b729a43dd02c3ee0c819149d"
+        "md5": "6a9231e24f0cbd4e984099f22f371205"
     },
     {
         "path": "tags/events",
@@ -187,11 +222,11 @@
     {
         "path": "/tags/events/index.html",
         "type": "file",
-        "md5": "ed9e6676cc5ceaa0052518e6e8d404a4"
+        "md5": "56e4dda05894511a2719a25ec0f23d16"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c8c8ff46016b0415393480b510227ca6"
+        "md5": "fdbfd4d0c191f0c0c7438cc77e19bde3"
     }
 ]

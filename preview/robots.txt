@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/sitemap.xml

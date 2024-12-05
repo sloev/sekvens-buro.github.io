@@ -12,7 +12,7 @@
    {{/unless}}
     <ul{{#if level}} class="navbar__submenu level-{{level}}" aria-hidden="true" {{else}} class="navbar__menu"{{/if}}>
         {{#each items}}
-             <li{{menuItemClasses}}>
+             <li{{menuItemClasses }}>
             {{#if link}}
                <a
                   href="{{menuUrl}}"

@@ -80,7 +80,7 @@
         "hiddenPostsListingOrderBy": "created_at",
         "hiddenPostsListingOrder": "DESC",
         "usePageAsFrontpage": false,
-        "pageAsFrontpage": 0,
+        "pageAsFrontpage": 7,
         "feed": {
             "title": "displayName",
             "titleValue": "",
@@ -177,7 +177,7 @@
         "port": "",
         "server": "",
         "username": "",
-        "password": "",
+        "password": "publii uuid-1733421249505-899906369",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -187,8 +187,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "",
-            "key": "",
+            "id": "publii-s3-id uuid-1733421249505-899906369",
+            "key": "publii-s3-key uuid-1733421249505-899906369",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -199,7 +199,7 @@
             "url": "",
             "branch": "",
             "user": "",
-            "password": "",
+            "password": "publii-git-password uuid-1733421249505-899906369",
             "commitAuthor": "",
             "commitEmail": "",
             "commitMessage": "Publii: update content"
@@ -209,7 +209,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "",
+            "token": "publii-gh-token uuid-1733421249505-899906369",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -218,11 +218,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": ""
+            "token": "publii-gl-token uuid-1733421249505-899906369"
         },
         "netlify": {
-            "id": "",
-            "token": ""
+            "id": "publii-netlify-id uuid-1733421249505-899906369",
+            "token": "publii-netlify-token uuid-1733421249505-899906369"
         },
         "google": {
             "key": "",
@@ -235,5 +235,5 @@
         }
     },
     "theme": "terminal",
-    "syncDate": 1733422953201
+    "syncDate": 1733430135715
 }

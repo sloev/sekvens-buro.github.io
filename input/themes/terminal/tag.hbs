@@ -2,70 +2,63 @@
 {{> navbar}}
 <main class="content page">
    {{#tag}}
-    
-            
-      {{#if tagViewConfig.displayPostList}} 
-         <div class="posts">
-            {{#each ../posts}}
-               <article class="post">
-                                    <div class="post_content_area">
 
-                  <header>
-                     <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a></h2>
-                  
-                     
-                     {{#checkIf @config.custom.listingTag '!==' "none" }}
-                        <div class="post__tags">
-                           {{#checkIf @config.custom.listingTag '==' "maintag" }}
-                              {{#if mainTag}}
-                                 <a href="{{ mainTag.url }}" class="invert">{{ mainTag.name }}</a>
-                              {{/if}}
-                           {{else}}
-                              {{#each tags}}
-                                 <a href="{{url}}" class="invert">{{name}}</a>
-                              {{/each}}
-                           {{/checkIf}}
-                        </div>
+
+   {{#if tagViewConfig.displayPostList}}
+   <div class="posts">
+      {{#each ../posts}}
+      <article class="post">
+         <div class="post_content_area">
+
+            <header>
+               <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a></h2>
+               <div class="post__meta">
+                  {{#each tags}}
+                
+                  {{#checkIf name '==' "events" }}
+
+                  <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="post__date">
+                     {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                     {{date createdAt @config.custom.formatDate}}
+                     {{else}}
+                     {{date createdAt @config.custom.formatDateCustom}}
                      {{/checkIf}}
-                  </header>
+                  </time>
+                  {{/checkIf}}
+                  {{/each}}
+               </div>
+            </header>
 
-                  {{#if @config.custom.listingFeaturedImage}}
-                     {{#featuredImage}}
-                        {{#if url}}
-                           <figure class="post__image post__cover">
-                                 <img
-                                    src="{{url}}"
-                                    {{#if @config.site.responsiveImages}}
-                                       {{responsiveImageAttributes 'featuredImage' srcset sizes}}
-                                    {{/if}}
-                                    {{ lazyload "lazy" }}
-                                    height="{{height}}"
-                                    width="{{width}}"
-                                    alt="{{alt}}">
-                                 {{#checkIfAny caption credits}}
-                                    <figcaption>
-                                       {{caption}}
-                                       {{credits}}
-                                    </figcaption>
-                                 {{/checkIfAny}}
-                              </figure>
-                        {{/if}}
-                     {{/featuredImage}}      
-                  {{/if}}      
-                  
-                  <div class="post__content">
-                        {{{ text }}}
-                   
-                  </div>
-                     <div class="post_paper_start"></div>
+            {{#if @config.custom.listingFeaturedImage}}
+            {{#featuredImage}}
+            {{#if url}}
+            <figure class="post__image post__cover">
+               <img src="{{url}}" {{#if @config.site.responsiveImages}} {{responsiveImageAttributes 'featuredImage'
+                  srcset sizes}} {{/if}} {{ lazyload "lazy" }} height="{{height}}" width="{{width}}" alt="{{alt}}">
+               {{#checkIfAny caption credits}}
+               <figcaption>
+                  {{caption}}
+                  {{credits}}
+               </figcaption>
+               {{/checkIfAny}}
+            </figure>
+            {{/if}}
+            {{/featuredImage}}
+            {{/if}}
 
-          </div>   
-         <div class="post_paper_end"></div>
-               </article>
-            {{/each}}
-            {{> pagination}}
+            <div class="post__content">
+               {{{ text }}}
+
+            </div>
+            <div class="post_paper_start"></div>
+
          </div>
-      {{/if}}
+         <div class="post_paper_end"></div>
+      </article>
+      {{/each}}
+      {{> pagination}}
+   </div>
+   {{/if}}
    {{/tag}}
 </main>
 {{> footer}}
