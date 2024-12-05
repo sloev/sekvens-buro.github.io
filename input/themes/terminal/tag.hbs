@@ -1,43 +1,18 @@
 {{> head}}
 {{> navbar}}
-<main class="content page page--tag">
+<main class="content page">
    {{#tag}}
-      <div class="page__header">
-         <h1 class="h2 page__title">
-            {{ translate 'tag.postFor' }}  #{{name}}
-            {{#if tagViewConfig.displayPostCounter}}<sup>({{postsNumber}} {{ translate "tag.post" (math postsNumber '+' 0)}})</sup>{{/if}}
-         </h1>
-         {{#if tagViewConfig.displayDescription}} 
-            {{#if description}}
-               <div class="page__desc">{{{description}}}</div>
-            {{/if}} 
-          {{/if}} 
-      </div>
+    
             
       {{#if tagViewConfig.displayPostList}} 
          <div class="posts">
             {{#each ../posts}}
                <article class="post">
+                                    <div class="post_content_area">
+
                   <header>
                      <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a></h2>
-                     {{#checkIfAny @config.custom.listingDate @config.custom.listingAuthor}}
-                        <div class="post__meta">     
-                           {{#if @config.custom.listingDate}}
-                              <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="post__date">
-                                 {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                                    {{date createdAt @config.custom.formatDate}}
-                                 {{else}}
-                                    {{date createdAt @config.custom.formatDateCustom}}
-                                 {{/checkIf}}
-                              </time>
-                           {{/if}}
-                           {{#if @config.custom.listingAuthor}}
-                              {{#author}}
-                                 <a href="{{url}}" class="post__author">{{name}}</a>
-                              {{/author}}
-                           {{/if}}
-                        </div> 
-                     {{/checkIfAny}}   
+                  
                      
                      {{#checkIf @config.custom.listingTag '!==' "none" }}
                         <div class="post__tags">
@@ -79,15 +54,13 @@
                   {{/if}}      
                   
                   <div class="post__content">
-                     {{#if hasCustomExcerpt}}
-                        {{{ excerpt }}}
-                     {{else}}
-                        <p>{{{ excerpt }}}</p>
-                     {{/if}}
-                     {{#if @config.custom.listingReadMore}}
-                           <a href="{{url}}" class="read-more">{{ translate 'post.readMore' }} &#8594;</a>
-                     {{/if}}
+                        {{{ text }}}
+                   
                   </div>
+                     <div class="post_paper_start"></div>
+
+          </div>   
+         <div class="post_paper_end"></div>
                </article>
             {{/each}}
             {{> pagination}}
