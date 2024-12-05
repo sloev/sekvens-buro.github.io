@@ -3,7 +3,7 @@
     <title>sekvens buro</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-12-05T22:05:14+01:00</updated>
+    <updated>2024-12-05T22:07:43+01:00</updated>
     <author>
         <name>sekvens</name>
     </author>
@@ -30,7 +30,7 @@
             <![CDATA[
                     <p><img src="https://sekvens.buro.earth/media/posts/9/salti.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Salti Brothers, Farid (DJ Salti) and Ahmed (Aggi), started DJing together after Ahmed returned from London, where he participated in founding the club FOLD and the record label DIY Records.</p>
-<p>Salti Brothers specialize in acid, techno, house, electrobreaks and arab-disco.</p>
+<p>Salti Brothers specialize in acid, techno, house, electrobreaks and arab-electronic.</p>
             ]]>
         </content>
     </entry>
@@ -117,18 +117,5 @@
                 <p>mail: <a href="mailto:asmusbusck+sekvens@gmail.com" target="_blank" rel="noopener noreferrer">asmusbusck@gmail.com</a></p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Asmus Busck</title>
-        <author>
-            <name>sekvens</name>
-        </author>
-        <link href="https://sekvens.buro.earth/asmus-busck.html"/>
-        <id>https://sekvens.buro.earth/asmus-busck.html</id>
-            <category term="artists"/>
-
-        <updated>2024-12-05T18:56:58+01:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>
