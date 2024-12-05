@@ -3,12 +3,33 @@
     <title>sekvens buro</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-12-05T22:28:06+01:00</updated>
+    <updated>2024-12-05T22:50:35+01:00</updated>
     <author>
         <name>sekvens</name>
     </author>
     <id>https://sekvens.buro.earth</id>
 
+    <entry>
+        <title>Sarahabibi</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/sarahabibi.html"/>
+        <id>https://sekvens.buro.earth/sarahabibi.html</id>
+            <category term="artists"/>
+
+        <updated>2024-12-05T22:50:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Sarahabibis sprøde lp samling sender dig på en rejse til de varme lande og skaber en magisk atmosfære. Hendes fusion af Italo disco, Habibifunk, Middle&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sarahabibis sprøde lp samling sender dig på en rejse til de varme lande og skaber en magisk atmosfære. Hendes fusion af Italo disco, Habibifunk, Middle Eastern groove og Psychedelic funk, forvandler dansegulvet til et funky eventyr. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dj Peik</title>
         <author>
@@ -16,6 +37,7 @@
         </author>
         <link href="https://sekvens.buro.earth/dj-peik.html"/>
         <id>https://sekvens.buro.earth/dj-peik.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/13/462574174_3421641884646115_3506368432892086371_n.jpg" medium="image" />
             <category term="artists"/>
 
         <updated>2024-12-05T22:27:53+01:00</updated>
@@ -23,17 +45,28 @@
         <content></content>
     </entry>
     <entry>
-        <title>Mormor</title>
+        <title>Dj Mormor</title>
         <author>
             <name>sekvens</name>
         </author>
         <link href="https://sekvens.buro.earth/mormor.html"/>
         <id>https://sekvens.buro.earth/mormor.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/12/avatars-000148535880-jfeb8t-t500x500.jpg" medium="image" />
             <category term="artists"/>
 
         <updated>2024-12-05T22:21:05+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/12/avatars-000148535880-jfeb8t-t500x500.jpg" alt="" />
+                    DJ: Sexy house, zouk bass and melodic techno
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/12/avatars-000148535880-jfeb8t-t500x500.jpg" class="type:primaryImage" alt="" /></p>
+                <p>DJ: Sexy house, zouk bass and melodic techno</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Rosenkrantz</title>
@@ -163,7 +196,7 @@
 <ul>
 <li><a href="https://sekvens.buro.earth/dj-peik.html">Dj peik</a> 20.00-21.00</li>
 <li><a href="https://sekvens.buro.earth/salti-brothers.html">Salti brothers</a> 21.00-22.00</li>
-<li>Sarahabibbi 22.00-23.00</li>
+<li><a href="https://sekvens.buro.earth/sarahabibi.html">Sarahabibbi</a> 22.00-23.00</li>
 <li><a href="https://sekvens.buro.earth/rosenkrantz.html">Rosenkrantz</a> 23.00-00.00</li>
 <li>Dj Monokel 00.00-01.00</li>
 <li><a href="https://sekvens.buro.earth/fyns-amt.html">Fyns Amt</a> 01.00-02.00</li>

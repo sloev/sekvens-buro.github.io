@@ -49,7 +49,7 @@
         {{{@headCustomCode}}}
     </head>
     <body class="{{#is "index"}}home-template{{/is}}{{#is "index-pagination"}} pagination-template{{/is}}{{#is "tag"}}tag-template{{/is}}{{#is "tag-pagination"}} pagination-template{{/is}}{{#is "tags"}}tags-template{{/is}}{{#is "page"}}page-template{{/is}}{{#is "post"}}post-template{{/is}}{{#is "author"}}author-template{{/is}}{{#is "author-pagination"}} pagination-template{{/is}}{{#is "404"}}error-template{{/is}}{{#is "search"}}search-template{{/is}}">
-          <div class="video-container"><iframe src="https://www.youtube.com/embed/F1DPAS8--lA?controls=0&autoplay=1&mute=1&showinfo=0&modestbranding=1&playsinline=1&loop=1&playlist=F1DPAS8--lA"></iframe>
-</div>
-       <div class="container{{#checkIf @config.custom.pageAligment '==' "center"}} container--center{{/checkIf}}">
+          <div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1DPAS8--lA?si=lSiqEI021GfJZlmd&controls=0&autoplay=1&mute=1&showinfo=0&modestbranding=1&playsinline=1&loop=1&playlist=F1DPAS8--lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" ></iframe>
+     </div>  <div class="container{{#checkIf @config.custom.pageAligment '==' "center"}} container--center{{/checkIf}}">
           {{{@bodyCustomCode}}}
