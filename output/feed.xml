@@ -3,12 +3,38 @@
     <title>sekvens buro</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-12-05T22:16:20+01:00</updated>
+    <updated>2024-12-05T22:28:06+01:00</updated>
     <author>
         <name>sekvens</name>
     </author>
     <id>https://sekvens.buro.earth</id>
 
+    <entry>
+        <title>Dj Peik</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/dj-peik.html"/>
+        <id>https://sekvens.buro.earth/dj-peik.html</id>
+            <category term="artists"/>
+
+        <updated>2024-12-05T22:27:53+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Mormor</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/mormor.html"/>
+        <id>https://sekvens.buro.earth/mormor.html</id>
+            <category term="artists"/>
+
+        <updated>2024-12-05T22:21:05+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Rosenkrantz</title>
         <author>
@@ -17,6 +43,7 @@
         <link href="https://sekvens.buro.earth/rosenkrantz.html"/>
         <id>https://sekvens.buro.earth/rosenkrantz.html</id>
         <media:content url="https://sekvens.buro.earth/media/posts/11/rosenkrantz.jpg" medium="image" />
+            <category term="artists"/>
 
         <updated>2024-12-05T22:16:07+01:00</updated>
             <summary>
@@ -134,7 +161,7 @@
 <p>Dørene åbner kl. 20.00.</p>
 <p>PROGRAM:</p>
 <ul>
-<li>Dj peik. 20.00-21.00</li>
+<li><a href="https://sekvens.buro.earth/dj-peik.html">Dj peik</a> 20.00-21.00</li>
 <li><a href="https://sekvens.buro.earth/salti-brothers.html">Salti brothers</a> 21.00-22.00</li>
 <li>Sarahabibbi 22.00-23.00</li>
 <li><a href="https://sekvens.buro.earth/rosenkrantz.html">Rosenkrantz</a> 23.00-00.00</li>
