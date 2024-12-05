@@ -26,6 +26,9 @@
             "id": "https://sekvens.buro.earth/fyns-amt.html",
             "url": "https://sekvens.buro.earth/fyns-amt.html",
             "title": "Fyns amt",
+            "summary": "Fyns Amt (Jakob Schmidt B2b Asmus Busck) spiller funky, up-tempo techno, super nye tracks, legendarisk techno, men mest af alt evergreens fra fremtiden. Ind imellem&hellip;",
+            "content_html": "<article class=\"post\">\n<div class=\"post__entry\">\n<p>Fyns Amt (Jakob Schmidt B2b Asmus Busck) spiller funky, up-tempo techno, super nye tracks, legendarisk techno, men mest af alt evergreens fra fremtiden. Ind imellem kan det være,at der snyder sig et lokalt track eller to på pulten.</p>\n</div>\n</article>",
+            "image": "https://sekvens.buro.earth/media/posts/8/fynsamt.jpg",
             "author": {
                 "name": "sekvens"
             },
@@ -33,7 +36,7 @@
                    "artists"
             ],
             "date_published": "2024-12-05T21:39:21+01:00",
-            "date_modified": "2024-12-05T21:39:21+01:00"
+            "date_modified": "2024-12-05T22:01:22+01:00"
         },
         {
             "id": "https://sekvens.buro.earth/solhverv.html",

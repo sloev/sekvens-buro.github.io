@@ -137,7 +137,7 @@
     {
         "path": "/authors/sekvens/index.html",
         "type": "file",
-        "md5": "1e0e67cf50eb8439367b6386cf0b7ab3"
+        "md5": "d2422dc9cedac85bd94059cedcbd66d3"
     },
     {
         "path": "contact-2.html",
@@ -147,17 +147,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5939a62c3169e457351d963e46a4ed6d"
+        "md5": "0341f2e1058b42b75a79fcafc6cddee6"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c7db4468db8ba65bae8112e24c94c252"
+        "md5": "ab7e3181152960e7010636696624153a"
     },
     {
         "path": "fyns-amt.html",
         "type": "file",
-        "md5": "e67c16fa7e55ac9efcccb7d653b732d7"
+        "md5": "a74c90fdb99847b42fcfb6dc2c693f4e"
     },
     {
         "path": "home.html",
@@ -200,6 +200,41 @@
         "md5": "888393b33a99151ac0a30ee91a09dd68"
     },
     {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/fynsamt.jpg",
+        "type": "file",
+        "md5": "54339bb70483f3f52bb3533eec0148a6"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/fynsamt-lg.jpg",
+        "type": "file",
+        "md5": "e95d4ac75997197902ddfd0237d47180"
+    },
+    {
+        "path": "/media/posts/8/responsive/fynsamt-md.jpg",
+        "type": "file",
+        "md5": "e95d4ac75997197902ddfd0237d47180"
+    },
+    {
+        "path": "/media/posts/8/responsive/fynsamt-sm.jpg",
+        "type": "file",
+        "md5": "5eec55c6b565005eacf32447a51beb53"
+    },
+    {
+        "path": "/media/posts/8/responsive/fynsamt-xs.jpg",
+        "type": "file",
+        "md5": "21c14a0987141ddf91e4d24f7d511cc9"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "d4811f6b1166d461c4b2ba76cb8ad84f"
@@ -212,7 +247,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9e92bcca3382a09e637cfb9093f684e4"
+        "md5": "039e0f056d380242dc3fea031470865c"
     },
     {
         "path": "sitemap.xsl",
@@ -237,7 +272,7 @@
     {
         "path": "/tags/artists/index.html",
         "type": "file",
-        "md5": "bb71f1d07fbf7ebc9a8ba052b5b6d7c0"
+        "md5": "be6553cd84c4a333795ae05931dcdc4a"
     },
     {
         "path": "tags/contact",
@@ -257,7 +292,7 @@
     {
         "path": "/tags/events/index.html",
         "type": "file",
-        "md5": "3252fdb76f5f0aeca75998e97e781fed"
+        "md5": "34cbd89b9fbe99b4a967561b152def91"
     },
     {
         "path": "/tags/index.html",

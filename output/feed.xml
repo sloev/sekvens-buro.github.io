@@ -3,7 +3,7 @@
     <title>sekvens buro</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-12-05T21:40:22+01:00</updated>
+    <updated>2024-12-05T22:01:22+01:00</updated>
     <author>
         <name>sekvens</name>
     </author>
@@ -29,11 +29,26 @@
         </author>
         <link href="https://sekvens.buro.earth/fyns-amt.html"/>
         <id>https://sekvens.buro.earth/fyns-amt.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/8/fynsamt.jpg" medium="image" />
             <category term="artists"/>
 
         <updated>2024-12-05T21:39:21+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/8/fynsamt.jpg" alt="" />
+                    Fyns Amt (Jakob Schmidt B2b Asmus Busck) spiller funky, up-tempo techno, super nye tracks, legendarisk techno, men mest af alt evergreens fra fremtiden. Ind imellem&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/8/fynsamt.jpg" class="type:primaryImage" alt="" /></p>
+                <article class="post">
+<div class="post__entry">
+<p>Fyns Amt (Jakob Schmidt B2b Asmus Busck) spiller funky, up-tempo techno, super nye tracks, legendarisk techno, men mest af alt evergreens fra fremtiden. Ind imellem kan det være,at der snyder sig et lokalt track eller to på pulten.</p>
+</div>
+</article>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Solhverv</title>
