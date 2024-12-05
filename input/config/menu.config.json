@@ -1,7 +1,7 @@
 [
     {
         "name": "menu",
-        "position": "",
+        "position": "mainMenu",
         "items": [
             {
                 "id": 1733422375579,
@@ -39,6 +39,7 @@
                 "isHidden": false,
                 "items": []
             }
-        ]
+        ],
+        "maxLevels": "-1"
     }
 ]
