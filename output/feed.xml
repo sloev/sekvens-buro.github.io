@@ -3,7 +3,7 @@
     <title>sekvens buro</title>
     <link href="https://sekvens.buro.earth/feed.xml" rel="self" />
     <link href="https://sekvens.buro.earth" />
-    <updated>2024-12-10T15:20:24+01:00</updated>
+    <updated>2025-01-25T20:00:00+01:00</updated>
     <author>
         <name>sekvens</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://sekvens.buro.earth/media/posts/15/poster.version.2.png" medium="image" />
             <category term="events"/>
 
-        <updated>2024-12-10T15:19:43+01:00</updated>
+        <updated>2025-01-25T20:00:00+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sekvens.buro.earth/media/posts/15/poster.version.2.png" alt="" />
@@ -39,6 +39,42 @@
 <li><a href="https://sekvens.buro.earth/supernihil.html">Supernihil</a> (visuals)</li>
 </ul>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Solhverv</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/solhverv.html"/>
+        <id>https://sekvens.buro.earth/solhverv.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" medium="image" />
+            <category term="events"/>
+
+        <updated>2024-12-21T20:00:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" alt="" />
+                    MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" class="type:primaryImage" alt="" /></p>
+                <p>MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.</p>
+<p>Dørene åbner kl. 20.00.</p>
+<p>PROGRAM:</p>
+<ul>
+<li><a href="https://sekvens.buro.earth/dj-peik.html">Dj peik</a> 20.00-21.00</li>
+<li><a href="https://sekvens.buro.earth/salti-brothers.html">Salti brothers</a> 21.00-22.00</li>
+<li><a href="https://sekvens.buro.earth/sarahabibi.html">Sarahabibbi</a> 22.00-23.00</li>
+<li><a href="https://sekvens.buro.earth/rosenkrantz.html">Rosenkrantz</a> 23.00-00.00</li>
+<li>Dj Monokel 00.00-01.00</li>
+<li><a href="https://sekvens.buro.earth/fyns-amt.html">Fyns Amt</a> 01.00-02.00</li>
+</ul>
+<p>Visuals: <a href="https://sekvens.buro.earth/supernihil.html">Supernihil</a></p>
+<p>Billetpris: 80 / 60 / 00 kr.</p>
             ]]>
         </content>
     </entry>
@@ -200,42 +236,6 @@
 <p>Fyns Amt (Jakob Schmidt B2b Asmus Busck) spiller funky, up-tempo techno, super nye tracks, legendarisk techno, men mest af alt evergreens fra fremtiden. Ind imellem kan det være,at der snyder sig et lokalt track eller to på pulten.</p>
 </div>
 </article>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Solhverv</title>
-        <author>
-            <name>sekvens</name>
-        </author>
-        <link href="https://sekvens.buro.earth/solhverv.html"/>
-        <id>https://sekvens.buro.earth/solhverv.html</id>
-        <media:content url="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" medium="image" />
-            <category term="events"/>
-
-        <updated>2024-12-05T18:59:35+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" alt="" />
-                    MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://sekvens.buro.earth/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif" class="type:primaryImage" alt="" /></p>
-                <p>MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.</p>
-<p>Dørene åbner kl. 20.00.</p>
-<p>PROGRAM:</p>
-<ul>
-<li><a href="https://sekvens.buro.earth/dj-peik.html">Dj peik</a> 20.00-21.00</li>
-<li><a href="https://sekvens.buro.earth/salti-brothers.html">Salti brothers</a> 21.00-22.00</li>
-<li><a href="https://sekvens.buro.earth/sarahabibi.html">Sarahabibbi</a> 22.00-23.00</li>
-<li><a href="https://sekvens.buro.earth/rosenkrantz.html">Rosenkrantz</a> 23.00-00.00</li>
-<li>Dj Monokel 00.00-01.00</li>
-<li><a href="https://sekvens.buro.earth/fyns-amt.html">Fyns Amt</a> 01.00-02.00</li>
-</ul>
-<p>Visuals: <a href="https://sekvens.buro.earth/supernihil.html">Supernihil</a></p>
-<p>Billetpris: 80 / 60 / 00 kr.</p>
             ]]>
         </content>
     </entry>

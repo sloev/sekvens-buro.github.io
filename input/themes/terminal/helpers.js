@@ -5,7 +5,7 @@ let themeHelpers = {
     yesterday: function(){
         var d  = new Date()
         d.setDate(d.getDate()-1)
-        return d.getTime()
+        return d
     },
     parseShortcode: function(postText, content) {
      let allTags = content.data.website.contentStructure.tags;

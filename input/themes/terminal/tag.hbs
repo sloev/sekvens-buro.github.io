@@ -3,16 +3,19 @@
 <main class="content page">
    {{#tag}}
 
-
    {{#if tagViewConfig.displayPostList}}
    <div class="posts">
+      
+            {{orderby ../posts 'createdAt' 'DESC'}}
+
       {{#each ../posts}}
+
       <article class="post">
          <div class="post_content_area">
 
             <header>
-               <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a></h2>
-         
+               <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a>
+               </h2>
             </header>
 
             {{#if @config.custom.listingFeaturedImage}}
@@ -21,18 +24,14 @@
             <figure class="post__image post__cover">
                <img src="{{url}}" {{#if @config.site.responsiveImages}} {{responsiveImageAttributes 'featuredImage'
                   srcset sizes}} {{/if}} {{ lazyload "lazy" }} height="{{height}}" width="{{width}}" alt="{{alt}}">
-               {{#checkIfAny caption credits}}
-               <figcaption>
-                  {{caption}}
-                  {{credits}}
-               </figcaption>
-               {{/checkIfAny}}
+
             </figure>
             {{/if}}
             {{/featuredImage}}
             {{/if}}
 
             <div class="post__content">
+
                {{{ text }}}
 
             </div>
@@ -41,6 +40,7 @@
          </div>
          <div class="post_paper_end"></div>
       </article>
+      
       {{/each}}
       {{> pagination}}
    </div>

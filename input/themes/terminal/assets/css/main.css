@@ -1309,26 +1309,22 @@ input[type=radio] {
   margin-right: calc(var(--baseline) * 2);
 }
 .post__title {
-  border-bottom: 3px dotted hsla(var(--accent), var(--alpha, 1));
-  color: hsla(var(--accent), var(--alpha, 1));
   position: relative;
   margin: 0 0 calc(var(--baseline) * 4);
-  padding-bottom: calc(var(--baseline) * 4);
+  padding-left: calc(var(--baseline) * 4);
+  border-left: 3px dotted hsla(var(--accent), var(--alpha, 1));
+
 }
 @media all and (min-width: 42.75em) {
   .post__title {
     margin-top: calc(var(--baseline) * 10);
   }
 }
-.post__title:after {
-  content: "";
-  position: absolute;
-  bottom: 2px;
-  display: block;
-  width: 100%;
-  border-bottom: 3px dotted hsla(var(--accent), var(--alpha, 1));
-}
+
 .post__title a {
+  font-size: xx-large;
+  color: hsla(var(--accent), var(--alpha, 1));
+
   text-decoration: none;
 }
 .post__tags {

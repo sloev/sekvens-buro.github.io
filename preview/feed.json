@@ -10,9 +10,57 @@
     },
     "items": [
         {
+            "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/hedo-hydr8-muskila.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/hedo-hydr8-muskila.html",
+            "title": "Hedo Hydr8 + Muskila",
+            "summary": "100 kr 25. Januar Christianshavns Beboerhus Line up:",
+            "content_html": "<p>100 kr<br>25. Januar<br>Christianshavns Beboerhus<br><br></p>\n<p>Line up:</p>\n<ul>\n<li>Hedo Hydr8 (b2b) Muskila</li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/salti-brothers.html\">Salti Bros</a></li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/fyns-amt.html\">Fyns Amt</a></li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/sarahabibi.html\">Sarahabibi</a></li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/supernihil.html\">Supernihil</a> (visuals)</li>\n</ul>\n<p> </p>",
+            "image": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/media/posts/15/poster.version.2.png",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "events"
+            ],
+            "date_published": "2025-01-25T20:00:00+01:00",
+            "date_modified": "2025-01-25T20:00:00+01:00"
+        },
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/solhverv.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/solhverv.html",
+            "title": "Solhverv",
+            "summary": "MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.",
+            "content_html": "<p>MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.</p>\n<p>Dørene åbner kl. 20.00.</p>\n<p>PROGRAM:</p>\n<ul>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/dj-peik.html\">Dj peik</a> 20.00-21.00</li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/salti-brothers.html\">Salti brothers</a> 21.00-22.00</li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/sarahabibi.html\">Sarahabibbi</a> 22.00-23.00</li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/rosenkrantz.html\">Rosenkrantz</a> 23.00-00.00</li>\n<li>Dj Monokel 00.00-01.00</li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/fyns-amt.html\">Fyns Amt</a> 01.00-02.00</li>\n</ul>\n<p>Visuals: <a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/supernihil.html\">Supernihil</a></p>\n<p>Billetpris: 80 / 60 / 00 kr.</p>",
+            "image": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "events"
+            ],
+            "date_published": "2024-12-21T20:00:00+01:00",
+            "date_modified": "2024-12-21T20:00:00+01:00"
+        },
+        {
+            "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/sarahabibi.html",
+            "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/sarahabibi.html",
+            "title": "Sarahabibi",
+            "summary": "Sarahabibis sprøde lp samling sender dig på en rejse til de varme lande og skaber en magisk atmosfære. Hendes fusion af Italo disco, Habibifunk, Middle&hellip;",
+            "content_html": "<p>Sarahabibis sprøde lp samling sender dig på en rejse til de varme lande og skaber en magisk atmosfære. Hendes fusion af Italo disco, Habibifunk, Middle Eastern groove og Psychedelic funk, forvandler dansegulvet til et funky eventyr. </p>",
+            "author": {
+                "name": "sekvens"
+            },
+            "tags": [
+                   "artists"
+            ],
+            "date_published": "2024-12-05T22:50:21+01:00",
+            "date_modified": "2024-12-05T22:50:21+01:00"
+        },
+        {
             "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/dj-peik.html",
             "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/dj-peik.html",
             "title": "Dj Peik",
+            "image": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/media/posts/13/462574174_3421641884646115_3506368432892086371_n-2.jpg",
             "author": {
                 "name": "sekvens"
             },
@@ -20,12 +68,15 @@
                    "artists"
             ],
             "date_published": "2024-12-05T22:27:53+01:00",
-            "date_modified": "2024-12-05T22:27:53+01:00"
+            "date_modified": "2024-12-05T22:53:05+01:00"
         },
         {
             "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/mormor.html",
             "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/mormor.html",
-            "title": "Mormor",
+            "title": "Dj Mormor",
+            "summary": "DJ: Sexy house, zouk bass and melodic techno",
+            "content_html": "<p>DJ: Sexy house, zouk bass and melodic techno</p>",
+            "image": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/media/posts/12/avatars-000148535880-jfeb8t-t500x500.jpg",
             "author": {
                 "name": "sekvens"
             },
@@ -33,7 +84,7 @@
                    "artists"
             ],
             "date_published": "2024-12-05T22:21:05+01:00",
-            "date_modified": "2024-12-05T22:21:05+01:00"
+            "date_modified": "2024-12-05T22:49:31+01:00"
         },
         {
             "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/rosenkrantz.html",
@@ -98,22 +149,6 @@
             ],
             "date_published": "2024-12-05T21:39:21+01:00",
             "date_modified": "2024-12-05T22:01:22+01:00"
-        },
-        {
-            "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/solhverv.html",
-            "url": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/solhverv.html",
-            "title": "Solhverv",
-            "summary": "MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.",
-            "content_html": "<p>MASKINEN og SEKVENS DJ-Kollektiv fejrer solhverv d.21 december. Vi håber på, at se alle slags godtfolk samlet til, at hverve solen, på årets korteste dag.</p>\n<p>Dørene åbner kl. 20.00.</p>\n<p>PROGRAM:</p>\n<ul>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/dj-peik.html\">Dj peik</a> 20.00-21.00</li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/salti-brothers.html\">Salti brothers</a> 21.00-22.00</li>\n<li>Sarahabibbi 22.00-23.00</li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/rosenkrantz.html\">Rosenkrantz</a> 23.00-00.00</li>\n<li>Dj Monokel 00.00-01.00</li>\n<li><a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/fyns-amt.html\">Fyns Amt</a> 01.00-02.00</li>\n</ul>\n<p>Visuals: <a href=\"file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/supernihil.html\">Supernihil</a></p>\n<p>Billetpris: 80 / 60 / 00 kr.</p>",
-            "image": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/media/posts/6/469294045_27780503088260089_1368971433565902465_n-ezgif.com-optimize.gif",
-            "author": {
-                "name": "sekvens"
-            },
-            "tags": [
-                   "events"
-            ],
-            "date_published": "2024-12-05T18:59:35+01:00",
-            "date_modified": "2024-12-05T22:28:06+01:00"
         },
         {
             "id": "file:////home/nihil/Documents/Publii/sites/sekvens-buro/preview/contact-2.html",

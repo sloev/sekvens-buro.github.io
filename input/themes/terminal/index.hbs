@@ -17,18 +17,17 @@
       {{#each @website.contentStructure.tags}}
       {{#checkIf this.name '==' 'events'}}
       {{#if this.postsNumber}}
+      {{orderby this.posts 'createdAt' 'ASC'}}
+
       {{#each this.posts}}
+      {{#checkIf (date createdAt 'X' ) '>=' (date yesterday 'X')}}
 
       <article class="post">
          <div class="post_content_area">
 
             <header>
-               <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a></h2>
-               <div class="post__meta">
-
-            
-
-               </div>
+               <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a><br>📣 {{ date createdAt 'HH:mm - Do MMM
+                  YYYY'}}</h2>
             </header>
 
             {{#if @config.custom.listingFeaturedImage}}
@@ -37,18 +36,14 @@
             <figure class="post__image post__cover">
                <img src="{{url}}" {{#if @config.site.responsiveImages}} {{responsiveImageAttributes 'featuredImage'
                   srcset sizes}} {{/if}} {{ lazyload "lazy" }} height="{{height}}" width="{{width}}" alt="{{alt}}">
-               {{#checkIfAny caption credits}}
-               <figcaption>
-                  {{caption}}
-                  {{credits}}
-               </figcaption>
-               {{/checkIfAny}}
+
             </figure>
             {{/if}}
             {{/featuredImage}}
             {{/if}}
 
             <div class="post__content">
+
                {{{ text }}}
 
             </div>
@@ -56,10 +51,14 @@
 
          </div>
          <div class="post_paper_end"></div>
-{{/each}}
+      </article>
+      {{/checkIf}}
+
+      {{/each}}
       {{else}}
       {{/if}}
       {{/checkIf}}
+
       {{/each}}
 
 
