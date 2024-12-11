@@ -1773,119 +1773,34 @@
         }
     ],
     "postConfig": [
-         {
-            "name": "displayDate",
-            "label": "Display date",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
+        {
+            "name": "venue",
+            "label": "venue",
+            "value": 0,
+            "type": "text"
         },
         {
-            "name": "displayAuthor",
-            "label": "Display author",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },       
-        {
-            "name": "displayLastUpdatedDate",
-            "label": "Display last updated date",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayTags",
-            "label": "Display tags",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayShareButtons",
-            "label": "Display share buttons",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-       
-        {
-            "name": "displayPostNavigation",
-            "label": "Display post navigation",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-
-        {
-            "name": "displayComments",
-            "label": "Display comments",
+            "name": "ticketsEnabled",
+            "label": "enable ticket sale",
             "value": 0,
             "type": "select",
             "options": [
                 {
-                    "label": "Enabled",
+                    "label": "Tickets enabled",
                     "value": 1
                 },
                 {
-                    "label": "Disabled",
+                    "label": "Tickets disabled",
                     "value": 0
                 }
             ]
+        },
+        {
+            "name": "ticketPresalePrice",
+            "label": "Ticket presale price in kr",
+            "value": "",
+            "type": "text"
+            
         }
     ],
     "pageConfig": [
@@ -2250,5 +2165,9 @@
             "cssClasses": "btn btn--link",
             "selector": "a, button, input[type=button], input[type=submit]"
         }
-    ]
+    ],
+    "extensions": {
+        "postEditorConfigOverride": true,
+        "postEditorCustomScript": true
+ }
 }

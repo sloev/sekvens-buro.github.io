@@ -169,6 +169,16 @@
             "customElements": "",
             "codemirrorTabSize": 4,
             "codemirrorAutoIndent": true
+        },
+        "customHTML": {
+            "custom-comments-code": "",
+            "custom-search-input": "",
+            "custom-search-content": "",
+            "custom-social-sharing": "",
+            "beforePost": "",
+            "afterPost": "",
+            "beforePage": "",
+            "afterPage": ""
         }
     },
     "deployment": {
@@ -235,5 +245,5 @@
         }
     },
     "theme": "terminal",
-    "syncDate": 1733903171557
+    "syncDate": 1733921333516
 }
