@@ -229,6 +229,15 @@ strong {
 }
 
 
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+  }
+}
+
 
 
 
@@ -1214,18 +1223,30 @@ input[type=radio] {
   border-right: 1px solid hsla(var(--color), var(--alpha, 0.1));
   display: flex;
   flex-direction: column;
-  padding: var(--page-margin);
+  margin: 0 var(--page-margin);
   max-width: var(--page-width);
   min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+
 }
 .container--center {
   border-left: 1px solid hsla(var(--color), var(--alpha, 0.1));
   margin: 0 auto;
 }
+.mymenu {
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.mymenu > div {
+  margin:0 5px;
+}
 
 .content {
   display: flex;
   flex-direction: column;
+  padding: 0 5px 0 5px;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 .content ul:not(.post__toc ul) {
   list-style: none;
