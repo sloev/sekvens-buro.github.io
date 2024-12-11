@@ -1239,6 +1239,10 @@ input[type=radio] {
   justify-content: flex-start;
 }
 .mymenu > div {
+  border-radius: 5px;
+  color: red;
+  border: dotted 2px;
+  padding: 0 5px;
   margin:0 5px;
 }
 
