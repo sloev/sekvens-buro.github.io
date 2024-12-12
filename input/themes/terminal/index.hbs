@@ -12,11 +12,11 @@
    </div>
    {{/if}}
    {{/if}}
-   <p><b>Sekvens</b> collective has been creating events in <a href="https://maps.app.goo.gl/Te1orsQmKQ61YtHr5">Svendborg</a> since 2022.<br>
+   <p class="post"><b>Sekvens</b> collective has been creating events in <a href="https://maps.app.goo.gl/Te1orsQmKQ61YtHr5">Svendborg</a> since 2022.<br>
    Sekvens presents <b>groundbreaking sounds</b> from a <b>broad spectrum</b> of genres and delivers a synergy amongst acts that resembles the energy within the collective.</br>
    The focus is on creating a sustainable scene that caters to the crowd of people in our province who longs for a proper <b>club vibe</b>.<br>
    With an influx of people moving to Svendborg every year from Copenhagen, our audience grows and so does the frequency of our events.</p>
-   <h1>Upcoming events 👇</h1>
+   <h1>Upcoming events 👇</h1><br>
    <div class="posts">
       {{#each @website.contentStructure.tags}}
       {{#checkIf this.name '==' 'events'}}
@@ -129,6 +129,7 @@ var total = document.getElementById("total_{{title}}")
 
 
    </div>
+
 </main>
 {{/checkIf}}
 {{> footer}}

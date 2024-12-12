@@ -13,20 +13,22 @@
       <article class="post">
             
          <div class="post_content_area">
-
-            <header>
-               <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a>
+ <header>
+               <h2 class="h1 post__title"><a href="{{url}}">{{title}}</a><br>
+             
+               📅 {{ date createdAt 'Do MMM YYYY'}}<br>
+               {{#checkIf postViewConfig.venue "!=" ""}}
+                📍 {{ postViewConfig.venue}}
+               {{/checkIf}}
                </h2>
             </header>
 
             {{#if @config.custom.listingFeaturedImage}}
             {{#featuredImage}}
             {{#if url}}
-            <figure class="post__image post__cover">
                <img src="{{url}}" {{#if @config.site.responsiveImages}} {{responsiveImageAttributes 'featuredImage'
                   srcset sizes}} {{/if}} {{ lazyload "lazy" }} height="{{height}}" width="{{width}}" alt="{{alt}}">
 
-            </figure>
             {{/if}}
             {{/featuredImage}}
             {{/if}}
