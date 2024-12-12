@@ -1,10 +1,10 @@
 {
     "config": {
-        "postsPerPage": 6,
-        "tagsPostsPerPage": "30",
+        "postsPerPage": "-1",
+        "tagsPostsPerPage": "-1",
         "authorsPostsPerPage": 6,
         "excerptLength": 25,
-        "logo": ""
+        "logo": "media/website/moh.icon.gif"
     },
     "customConfig": {
         "pageAligment": "left",
@@ -83,13 +83,9 @@
         "fontHeadingsItalic": true
     },
     "postConfig": {
-        "displayDate": 1,
-        "displayAuthor": 1,
-        "displayLastUpdatedDate": 1,
-        "displayTags": 1,
-        "displayShareButtons": 1,
-        "displayPostNavigation": 1,
-        "displayComments": 0
+        "venue": 0,
+        "ticketsEnabled": 0,
+        "ticketPresalePrice": ""
     },
     "pageConfig": {
         "displayDate": 0,

@@ -5,6 +5,7 @@
     "home_page_url": "https://sekvens.buro.earth",
     "feed_url": "https://sekvens.buro.earth/feed.json",
     "user_comment": "",
+    "icon": "https://sekvens.buro.earth/media/website/moh.icon.gif",
     "author": {
         "name": "sekvens"
     },

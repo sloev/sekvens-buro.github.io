@@ -47,11 +47,9 @@
             {{#if @config.custom.listingFeaturedImage}}
             {{#featuredImage}}
             {{#if url}}
-            <figure class="post__image post__cover">
                <img src="{{url}}" {{#if @config.site.responsiveImages}} {{responsiveImageAttributes 'featuredImage'
                   srcset sizes}} {{/if}} {{ lazyload "lazy" }} height="{{height}}" width="{{width}}" alt="{{alt}}">
 
-            </figure>
             {{/if}}
             {{/featuredImage}}
             {{/if}}
@@ -108,7 +106,7 @@ var total = document.getElementById("total_{{title}}")
             var message = JSON.stringify({t:"{{title}}",e:formData.email, d:"{{ date createdAt 'DD/MM/YYYY'}}", q:formData.quantity})
             var url = "https://qr.mobilepay.dk/box/"+mobilepaybox+"/pay-in?amount="+formData.total+"00&message="+message
             window.open(url, "_blank")
-            //window.location.href = "https://sekvens.buro.earth/ticketpurchased"
+            window.location.href = "https://sekvens.buro.earth/ticketpurchased"
         });
                                 }
     </script>
