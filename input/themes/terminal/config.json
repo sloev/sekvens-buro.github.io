@@ -1801,6 +1801,13 @@
             "value": "",
             "type": "text"
             
+        },
+        {
+            "name": "artistLink",
+            "label": "Artist link",
+            "value": "",
+            "type": "text"
+            
         }
     ],
     "pageConfig": [
@@ -1990,7 +1997,8 @@
         }
     ],
     "tagTemplates": {
-   "events": "template for events"
+   "events": "template for events",
+   "artists": "template for artists"
 },
     "tagConfig": [
         {

@@ -1334,16 +1334,12 @@ input[type=radio] {
 }
 .post__title {
   position: relative;
-  margin: 0 0 calc(var(--baseline) * 4);
+  margin: calc(var(--baseline) * 10) 0 calc(var(--baseline) * 4);
   padding-left: calc(var(--baseline) * 4);
   border-left: 3px dotted hsla(var(--accent), var(--alpha, 1));
   border-top: 3px dotted hsla(var(--accent), var(--alpha, 1));
+  margin-top: calc(var(--baseline) * 10);
 
-}
-@media all and (min-width: 42.75em) {
-  .post__title {
-    margin-top: calc(var(--baseline) * 10);
-  }
 }
 
 .post__title a {

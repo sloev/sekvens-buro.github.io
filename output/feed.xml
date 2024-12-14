@@ -65,7 +65,7 @@
 <p>Dørene åbner kl. 20.00.</p>
 <p>PROGRAM:</p>
 <ul>
-<li><a href="https://sekvens.buro.earth/dj-peik.html">Dj peik</a> 20.00-21.00</li>
+<li><a href="#non-existing-post-with-id-13">Dj peik</a> 20.00-21.00</li>
 <li><a href="https://sekvens.buro.earth/salti-brothers.html">Salti brothers</a> 21.00-22.00</li>
 <li><a href="https://sekvens.buro.earth/sarahabibi.html">Sarahabibbi</a> 22.00-23.00</li>
 <li><a href="https://sekvens.buro.earth/rosenkrantz.html">Rosenkrantz</a> 23.00-00.00</li>
@@ -84,33 +84,23 @@
         </author>
         <link href="https://sekvens.buro.earth/sarahabibi.html"/>
         <id>https://sekvens.buro.earth/sarahabibi.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/14/IMG_20240806_152656_84.jpg" medium="image" />
             <category term="artists"/>
 
         <updated>2024-12-05T22:50:21+01:00</updated>
             <summary>
                 <![CDATA[
-                    Sarahabibis sprøde lp samling sender dig på en rejse til de varme lande og skaber en magisk atmosfære. Hendes fusion af Italo disco, Habibifunk, Middle&hellip;
+                        <img src="https://sekvens.buro.earth/media/posts/14/IMG_20240806_152656_84.jpg" alt="" />
+                    Sarahabibis sætlister sender dig på en rejse i de varme lande og skaber en magisk atmosfære med en spændende fusion af Italo disco, Habibifunk, Middle&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Sarahabibis sprøde lp samling sender dig på en rejse til de varme lande og skaber en magisk atmosfære. Hendes fusion af Italo disco, Habibifunk, Middle Eastern groove og Psychedelic funk, forvandler dansegulvet til et funky eventyr. </p>
+                    <p><img src="https://sekvens.buro.earth/media/posts/14/IMG_20240806_152656_84.jpg" class="type:primaryImage" alt="" /></p>
+                <div dir="auto">Sarahabibis sætlister sender dig på en rejse i de varme lande og skaber en magisk atmosfære med en spændende fusion af Italo disco, Habibifunk, Middle Eastern groove og Psychedelic funk. </div>
+<div dir="auto">Hun inviterer dig med i et forførende lydunivers, der forvandler dansegulvet til en kulturel smeltedigel.</div>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Dj Peik</title>
-        <author>
-            <name>sekvens</name>
-        </author>
-        <link href="https://sekvens.buro.earth/dj-peik.html"/>
-        <id>https://sekvens.buro.earth/dj-peik.html</id>
-        <media:content url="https://sekvens.buro.earth/media/posts/13/462574174_3421641884646115_3506368432892086371_n-2.jpg" medium="image" />
-            <category term="artists"/>
-
-        <updated>2024-12-05T22:27:53+01:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
     <entry>
         <title>Dj Mormor</title>
@@ -174,14 +164,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://sekvens.buro.earth/media/posts/10/Screenshot-from-2024-12-05-22-12-40.png" alt="" />
-                    supernihil er en lokal visuel artist. se mere: supernihil.github.io
+                    supernihil er en lokal visuel artist.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://sekvens.buro.earth/media/posts/10/Screenshot-from-2024-12-05-22-12-40.png" class="type:primaryImage" alt="" /></p>
                 <p>supernihil er en lokal visuel artist.</p>
-<p>se mere: <a href="supernihil.github.io">supernihil.github.io</a></p>
             ]]>
         </content>
     </entry>
@@ -256,6 +245,31 @@
         <content type="html">
             <![CDATA[
                 <p>mail: <a href="mailto:asmusbusck+sekvens@gmail.com" target="_blank" rel="noopener noreferrer">asmusbusck@gmail.com</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SEKVENS DJ festival (2024)</title>
+        <author>
+            <name>sekvens</name>
+        </author>
+        <link href="https://sekvens.buro.earth/sekvens-dj-festival-2024.html"/>
+        <id>https://sekvens.buro.earth/sekvens-dj-festival-2024.html</id>
+        <media:content url="https://sekvens.buro.earth/media/posts/17/449181210_10162321754904883_9096389936249560836_n.jpg" medium="image" />
+            <category term="events"/>
+
+        <updated>2024-08-30T16:00:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sekvens.buro.earth/media/posts/17/449181210_10162321754904883_9096389936249560836_n.jpg" alt="" />
+                    SEKVENS DJ festival are born on the 30st of August in the last summer days of the year. The FESTIVAL is within cycling distance from&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sekvens.buro.earth/media/posts/17/449181210_10162321754904883_9096389936249560836_n.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">SEKVENS DJ festival are born on the 30st of August in the last summer days of the year.</div>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">The FESTIVAL is within cycling distance from SVENDBORG, and takes place among firs and deciduous trees on Aserbo's beautiful ground, where there is room for adventure!</div>
             ]]>
         </content>
     </entry>

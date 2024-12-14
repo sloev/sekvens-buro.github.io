@@ -35,7 +35,7 @@
                ⏰ {{ date createdAt 'HH:mm'}}<br>
                📅 {{ date createdAt 'Do MMM YYYY'}}<br>
                {{#checkIf postViewConfig.ticketPresalePrice "!=" ""}}
-               🎫  {{ postViewConfig.ticketPresalePrice}} kr {{#if postViewConfig.ticketsEnabled}} <i><a style="font-size: medium; padding:0 2px;border:solid 2px;color:yellow;" href="#ticketform_{{title}}">buy ticket</a></i>{{/if}}<br>
+               🎫  {{ postViewConfig.ticketPresalePrice}} kr {{#if postViewConfig.ticketsEnabled}} <i><a style="font-size: medium; padding:0 2px;border:solid 2px;color:yellow;" href="#ticketform_{{title}}_href">buy ticket</a></i>{{/if}}<br>
 
                {{/checkIf}}
                {{#checkIf postViewConfig.venue "!=" ""}}
@@ -58,8 +58,8 @@
 
                {{{ text }}}
                {{#if postViewConfig.ticketsEnabled }}
-               <h3>Tickets:</h3>
-               <q><i>Clicking buy now will trigger a mobilepay transaction for buying tickets.<br>You will not get a confirmation email. Instead your given info is your ticket: (email + quantity) together with your mobilepay transfer</i></q>
+               <h3 id="ticketform_{{title}}_href">Buy your "{{title}}"" tickets here:</h3>
+              
                                 <form id="ticketform_{{title}}" novalidate method="post">
                                     <div class="form-group inline-label">
                                        <label for="email_{{title}}">email</label>
@@ -75,10 +75,15 @@
                                     </div>
                                     
                                     <div class="form-group">
-                                        <input type="submit" value="Buy ticket" class="btn" />
+                                        <input type="submit" value="Buy" class="btn" />
                                     </div>
 
                                 </form>
+                                <br>
+                                 <q><i>💡 Clicking "Buy" opens a mobilepay payment with prefilled info and amount.<br>
+               Your mobilepay payment is regarded as the ticket.<br>
+               Remember your given email address as we will ask for it in the door.<br>
+               You will not receive a confirmation email on purchase.</i></q>
                                 <script>
                                  
                                 window.onload = function() {
@@ -111,7 +116,7 @@ var total = document.getElementById("total_{{title}}")
                                 }
     </script>
                {{/if}}
-
+<br>
             </div>
             <div class="post_paper_start"></div>
 
