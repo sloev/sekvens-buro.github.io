@@ -77,7 +77,7 @@
         "formatDate": "MMMM D, YYYY",
         "formatDateCustom": "HH:mm:ss YY/MM/DD",
         "lazyLoadEffect": "fadein",
-        "faviconUpload": "",
+        "faviconUpload": "media/website/favicon.ico",
         "faviconExtension": "image/x-icon",
         "fontBodyItalic": true,
         "fontHeadingsItalic": true
@@ -85,7 +85,9 @@
     "postConfig": {
         "venue": 0,
         "ticketsEnabled": 0,
-        "ticketPresalePrice": ""
+        "ticketPresalePrice": "",
+        "artistLink": "",
+        "ticketLink": ""
     },
     "pageConfig": {
         "displayDate": 0,
