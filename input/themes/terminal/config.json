@@ -1808,6 +1808,13 @@
             "value": "",
             "type": "text"
             
+        },
+        {
+            "name": "ticketLink",
+            "label": "External Ticket link",
+            "value": "",
+            "type": "text"
+            
         }
     ],
     "pageConfig": [
