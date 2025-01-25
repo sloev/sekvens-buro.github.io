@@ -38,8 +38,7 @@
 <li><a href="https://sekvens.buro.earth/sarahabibi.html">Sarahabibi</a></li>
 <li><a href="https://sekvens.buro.earth/supernihil.html">Supernihil</a> (visuals)</li>
 </ul>
-<figure class="post__video"><video loading="lazy" width="400" height="200" controls="controls" data-mce-fragment="1">
-<source src="https://imgur.com/cYfO9tG" /></video></figure>
+<div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1jk1UB2o1SttStIXMgQwjxW1N4S1Im2cF/preview?autoplay=1&amp;loop=1" allow="autoplay"></iframe></div>
             ]]>
         </content>
     </entry>
